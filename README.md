@@ -122,24 +122,61 @@ Info
 
 ### Day 2 - duration: 3-4 hours
 
-Today we make an inductor circuit (joule thief) to amp up the small voltage we get from the mud battery. Take a look at [this video](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/) to get the basic idea. We will replace the AA battery with our mud battery, and we will add a button to this circuit (and optional: a buzzer) to use it to make light and sound signals. It's simple, but could be seen as the basic setup needed to encode and send information (on/off, zeros/ones, lights/no light, sound/no sound). We propose to explore the concept of communication protocols we encounter every day, and create our own protocols for communication using a very bare bones, hyperlocal, low energy infrastructure. 
+Today we make an inductor circuit (joule thief) to amp up the small voltage we get from the mud battery. Take a look at [this video](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/) to get the basic idea. We will replace the AA battery with our mud battery, and we will add a button to this circuit (and optional: a buzzer) to use it to make light and sound signals. Thus, we are creating the basic setup for encoding and sending information (on/off, zeros/ones, lights/no light, sound/no sound). 
+With this workshop and the simple parameters it provides we propose to explore the concept of communication protocols that we encounter every day in implicit and explicit ways, AND create our own protocols for communication using a very bare bones, hyperlocal, low energy infrastructure!  
+
+#### Shared activity with all nodes: Collective reading 
+
+As part of our workshop we propose to read the following text: *Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131. Byfield, Ted (2008) “Information” in: Matthew Fuller (ed) [PDF here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
+and meet on this [Etherpad](https://etherpad.hackersanddesigners.nl/p/soilpunk-workshop-hdsa2022) with all nodes on Tuesday **9.00-10.00AM CET = 4.00-5.00 PM KST = 7.00-8.00 PM NZST** to discuss the text together. We will prepare some questions and prompts that will be released to activate and create a dramaturgy for the discussion in the pad. We will also have a [BBB room](https://bbb.constantvzw.org/b/hd4-tzj-me3-3sa) open. But most of the discussion will happen in writing on the pad.
+We hope through this shared moment we can faciliated an moment of connectedness across nodes/scripts/space/time.
 
 #### Intro by H&D
 
-Exchange thoughts about communication protocols in different contexts (walkie talkie, SPI, IP, daily life) using the background information and prompts provided below e.g. [this wiki page](https://en.wikipedia.org/wiki/Communication_protocol), or for example [this youtube video](https://youtu.be/kkMVv0dMavM) 
+##### [Short 5 min max prerecorded video by H&D about the idea and set up of the workshop] 
 
-<span style="color:red">**provide more detail and exercises here**</span>
+##### Collective exercises to set the scene for this workshop:  
 
-* example + questions to think about
-* example + questions to think about
+The purpose of the following exercises is to exchange associations and thoughts about communication protocols in different contexts (walkie talkie, SPI, IP, daily life) and to get a collective sense of what the knowledge and interest are of the group in relation to the topic of *alternative communication protocols*. We do not expect prior knowledge or answers/solutions to problems but depart from and work with the imagination and fascinations of the respective groups.
 
-This short text migt be interesting to read and discuss together: Byfield, Ted (2008) “Information” in: Matthew Fuller (ed) *Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131. [PDF here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
+Hopefully by the end of the exercises we have to accumulated a collective vocabulary that sets into motion a direction for the communication protocols you will be making!
 
-<span style="color:red">**provide more detail and exercises here**</span>
+You could use an Etherpad ((create your own)[https://etherpad.hackersanddesigners.nl/]) or a large paper for this exercise.
 
-* Reading question 1
-* Reading question 1
 
+**Part 1: 
+
+*Facilitators release one question at a time and set a timer of 7 minutes per question:
+
+1. What do you associate with the term 'transmitting' -- 7 min
+2. What do you associate with the term 'receiving' -- 7 min
+3. What do you associate with the notion 'making yourself understood' -- 7 min
+4. What do you associate with the notion 'feeling understood' -- 7 min
+
+Responses to these prompts can be questions, openings, contradictions, fictions, ... there is no right or wrong.
+
+If there is time left, facilitators can invite participants to read some of the responses out loud and react to them.
+
+**Part 2:**  
+*Facilitators release one question at a time and set a timer of 7 minutes per question:
+
+We all experience troubled transmission all the time. Broken connection, low bandwidth, frozen faces.... all gestures of infrastructures that tell but one thing "Connectivity is not to be taken for granted". 
+
+1. Gather in groups of 3 
+2. Pick a scenario of online communication/collaboration that everyone in your group has at some point experienced (i.e. a video conferencing platform, whatsapp call, discord messaging, twitch streaming...) -- 5 min
+3. Make an extensive inventory of utterances of 'bad' connectivity within online communication (i.e. frozen face,...) -- 10 min
+4. Pick one that you find particulary irritating and come up with a protocol that caters to the situation. -- 15 min
+
+
+**Relevant background information:  
+
+[Wikipedia page of Communication Protocols](https://en.wikipedia.org/wiki/Communication_protocol), 
+[Youtube video "RFID Lab 1: Serial Peripheral Interface (SPI)"](https://youtu.be/kkMVv0dMavM) 
+["S.M.S., smoke as a medium for the masses" by Dennis de Bel] (http://dennisdebel.nl/2017/2014-sms2.0/)
+[Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131. Byfield, Ted (2008) “Information” in: Matthew Fuller (ed)] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
+[The commons: Infrastructures for troubling times* Lauren Berlant](text is part of the reader)
+
+[... add more ]
 
 
 #### How to make the most of a battery: DIY inductor intro (Joule thief)
@@ -149,6 +186,7 @@ We will build an inductor circuit that can power an LED with as little as 0.5V (
 <span style="color:red">**update image with version that has corresponds w diagramss**</span>
 
 <img src="./images/joulethief_simple.jpeg" alt="" width="600"/>
+
 
 **MAKE THE JOULE THIEF**
 
