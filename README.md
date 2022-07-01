@@ -106,12 +106,12 @@ Today we make an inductor circuit (joule thief) to amp up the small voltage we g
 
 #### Intro by H&D
 
-Exchange thoughts about communication protocols in different contexts (walkie talkie, SPI, IP, daily life) using the background information and prompts provided in the workshop script, e.g. [this wiki page](https://en.wikipedia.org/wiki/Communication_protocol), or for example [this youtube video](https://youtu.be/kkMVv0dMavM) 
+Exchange thoughts about communication protocols in different contexts (walkie talkie, SPI, IP, daily life) using the background information and prompts provided below e.g. [this wiki page](https://en.wikipedia.org/wiki/Communication_protocol), or for example [this youtube video](https://youtu.be/kkMVv0dMavM) 
 
 * example + questions to think about
 * example + questions to think about
 
-This short text migt be interesting to read and discuss together: Byfield, Ted (2008) “Information” in: Matthew Fuller (ed) Software Studies: a Lexicon. Massachussetts, MIT Press: p. 125-131. [PDF here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
+This short text migt be interesting to read and discuss together: Byfield, Ted (2008) “Information” in: Matthew Fuller (ed) *Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131. [PDF here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
 
 * Reading question 1
 * Reading question 1
@@ -129,6 +129,10 @@ If you only have the afternoon: make 2 groups. One group makes joule thieve devi
 **GROUP 1**
 
 Build a joule thief circuit with the components provided, following the step-by-step instructions in the script (will be translated adaptation of this [Dutch tutorial](https://ingegno.be/realisations/jouledief.html)) There are a lot of similar tutorials so if anything is unclear it's worth looking around a bit, maybe somebody else has a way of explaining that is clearer for you :) 
+
+[Example of the working circuit with a LED](https://www.youtube.com/watch?v=umFwwJs-5BA)
+
+[Example of the working circuit with a buzzer](https://www.youtube.com/watch?v=va7Zxcri2gk)
 
 
 ##### Step 1: prepare the inductor 
@@ -184,9 +188,7 @@ The leads on the left side of the coil are not connected to each other. One goes
 
 **Resistor** has no orientation, either way is fine. You can influence the working of the circuit a bit by trying different values. If you have more resistors: try some in the range of 400-2000ohm and see what happens!
 
-[Example of the working circuit with a LED](https://www.youtube.com/watch?v=umFwwJs-5BA)
-
-[Example of the working circuit with a buzzer](https://www.youtube.com/watch?v=va7Zxcri2gk)
+In case you want to know the schematic (a bit abstract but can be helpful sometimes)
 
 <img src="./images/schematic.png" alt="schematic diagram of the circuit" width="600"/>
 
