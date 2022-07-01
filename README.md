@@ -11,7 +11,16 @@ The workshop incorporates two experimental approaches simultaneously: one that i
 
 And secondly: by exploring the strategies from DIY biotechnology where bacteria found in local iron-rich soil are harnessed to generate and store energy. SoilPunk: muddy speculations on desirable techno futures. 
 
-## Materials and tools
+## Table of contents
+
+1. [Materials and tools](https://github.com/hackersanddesigners/Soilpunk_joulethief#materials-and-tools)
+2. [Prior knowledge that will come in handy](https://github.com/hackersanddesigners/Soilpunk_joulethief#prior-knowledge-that-will-come-in-handy)
+3. [Workshop version 1 - in person](https://github.com/hackersanddesigners/Soilpunk_joulethief#version-1-in-person)
+	* [Day 1 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1---duration-3-4-hours)
+	* [Day 2 - duration: 3-40 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1---duration-3-4-hours)
+4. [Workshop version 2 - hybrid](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1---duration-3-4-hours)
+
+## 1. Materials and tools
 
 **For the mud battery**
 
@@ -62,7 +71,7 @@ To build the joule thief you will need to have basic working knowledge of how to
 * [Background info on how inductors work](https://www.youtube.com/watch?v=KSylo01n5FY)
 * [	Video of someone else who made a joulethief](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/)
 
-## VERSION 1 (IN-PERSON)
+## WORKSHOP VERSION 1 (IN-PERSON)
 
 Duration: 8 hours (2x4 hrs, should have a one day break in between to charge battery)
 Before starting: check kit and supplies (some shopping might be necessary)
@@ -226,7 +235,7 @@ Research and think a bit more on this together, and try to create an analog comm
 
 
 
-## VERSION 2 (HYBRID) 
+## WORKSHOP VERSION 2 (HYBRID) 
 
 Duration: from 4 hours (half a day) up to 8 hours spread out over 2 days, depending on selected activities
 
