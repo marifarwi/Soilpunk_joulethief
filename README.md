@@ -102,7 +102,7 @@ Info
 
 ### Day 2 - duration: 3-4 hours
 
-Today we make an inductor circuit (joule thief) to amp up the small voltage we get from the mud battery. Take a look at [this video](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/) to get the basic idea. This circuit will allow us to create light and sound signals, which could be seen as basic elements needed to encode and send information (on/off, zeros/ones, lights/no light, sound/no sound). We propose to explore the concept of communication protocols we encounter every day, and create our own protocols for communication using a very bare bones, hyperlocal, low energy infrastructure. 
+Today we make an inductor circuit (joule thief) to amp up the small voltage we get from the mud battery. Take a look at [this video](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/) to get the basic idea. We will replace the AA battery with our mud battery, and we will add a button to this circuit (and optional: a buzzer) to use it to make light and sound signals. It's simple, but could be seen as the basic setup needed to encode and send information (on/off, zeros/ones, lights/no light, sound/no sound). We propose to explore the concept of communication protocols we encounter every day, and create our own protocols for communication using a very bare bones, hyperlocal, low energy infrastructure. 
 
 #### Intro by H&D
 
@@ -182,7 +182,7 @@ Note that this part has polarity, so should be connected with the right orientat
 
 **Your inductor coil** obviously looks different :) In the diagram you see the two wires making up the coil marked with a different color (blue or yellow). Ours are both copper colored but you will have marked them with tape or measured with a multimeter. The leads on the right are connected to row 14, with the + side of your battery. You can either wrap them making one leg so to speak, or keep them separated and just connect both on row 14. Both options are a way of connecting them.
 
-The leads on the left side of the coil are not connected to each other. One goes to the Emitter (E) of the transistor (row 5) and one is connected to the the resistor (row 7).
+The leads on the left side of the coil are not connected to each other. One goes to the right leg of the transistor (row 5) and one is connected to the the resistor (row 7).
 
 **Button**: has 4 legs. In the diagram, the two legs on the left are connected, and the two legs on the right side are connected too. When the button is pressed, the left side and the right side make a connection too (allowing electrons to flow). On the back side you can see marks showing you which legs are connected. If unsure, check with the multimeter (continuity setting). If your button is not working, you can try rotating it 90 degrees, you might have it connected in the wrong orientation.
 
