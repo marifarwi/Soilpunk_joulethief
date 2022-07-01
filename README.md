@@ -5,7 +5,15 @@ alternative for soilpunk workshop HDSA2022<img src="./images/soilpunkwsimage.jpg
 
 *ALTERNATIVE SCRIPT - SOILPUNK*
 
-In this workshop we will imagine and try out ways to radically reduce the energy use associated with communication technologies such as the Internet. 
+This workshop is developed by the two collectives Hackers and Designers and Hackiteckts in the context of the H&D Summer Academy 2022 "Connecting Oterhwise. We invite participants and faciliators of the different nodes to imagine and try out ways to radically reduce the energy use associated with communication technologies such as the Internet. 
+
+Some questions / points of discussion we want to explore through this hands-on workshop:
+
+* making tangible abstract concepts around communication technology / technical infrastructure / connectivity
+* problematizing and considering different narratives and vocabularies around 'the internet'
+* negotiating problematic history of connectivity and communication infrastructure 
+* the solarpunk approach (neither tech-optimist nor tech-pessimist ... leaning into complexities and brokeness of the now while working towards desirable, equitable futures
+* imagining and exercising desirable futures for communication technologies that are les wasteful, accessible, inequitable, self-reflexive and fun! 
 
 The workshop incorporates two experimental approaches simultaneously: one that is focused on peeling back to the bare-bones of communication, and creating our own far from flawless but hyperlocal interpersonal protocols for information transfer. 
 
