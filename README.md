@@ -11,6 +11,8 @@ The workshop incorporates two experimental approaches simultaneously: one that i
 
 And secondly: by exploring the strategies from DIY biotechnology where bacteria found in local iron-rich soil are harnessed to generate and store energy. SoilPunk: muddy speculations on desirable techno futures. 
 
+
+
 ## Table of contents
 
 1. [Materials and tools](https://github.com/hackersanddesigners/Soilpunk_joulethief#materials-and-tools)
@@ -135,7 +137,7 @@ This short text migt be interesting to read and discuss together: Byfield, Ted (
 
 We will build an inductor circuit that can power an LED with as little as 0.5V (in comparison: typically you need 2V). Our mud battery is likely to be able to supply this amount after 24 hours if all went well. We added a button to the circuit so the device can double as an extremely simple communication device. By connecting the LED you can send light patterns using the button. If you replace the LED with the little buzzer you can send sound signals. 
 
-<span style="color:red">**update image with version that has corresponds w diagrams**</span>
+<span style="color:red">**update image with version that has corresponds w diagramss**</span>
 
 <img src="./images/joulethief_simple.jpeg" alt="" width="600"/>
 
