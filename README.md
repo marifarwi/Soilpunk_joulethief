@@ -4,7 +4,7 @@
 <img src="./images/soilpunkwsimage.jpg" alt="" width="600"/>
 
 This workshop is developed by the two collectives Hackers 
-& Designers and Hackitects in the context of the H&D Summer Academy 2022 "Connecting Otherwise. We invite participants and facilitators of the different nodes to imagine and try out ways to radically reduce the energy use associated with communication technologies such as the Internet and consider a low-tech approaches to 'connecting otherwise'. 
+& Designers and Hackitects in the context of the H&D Summer Academy 2022 *Connecting Otherwise*. We invite participants and facilitators of the different nodes to imagine and try out ways to radically reduce the energy use associated with communication technologies such as the Internet and consider a low-tech approaches to 'connecting otherwise'. 
 
 Some questions / points of discussion we want to explore through this hands-on workshop:
 
@@ -13,10 +13,8 @@ Some questions / points of discussion we want to explore through this hands-on w
 * negotiating problematic history of connectivity and communication infrastructure 
 * the solarpunk approach: imagining and exercising desirable futures for communication technologies that are less wasteful, accessible, inequitable, self-reflexive and fun! 
 
-The workshop incorporates two experimental approaches simultaneously: one that is focused on peeling back to the bare-bones of communication, and creating our own far from flawless but hyperlocal interpersonal protocols for information transfer. 
-
-And secondly: by exploring the strategies from DIY biotechnology where bacteria found in local iron-rich soil are harnessed to generate and store energy. SoilPunk: muddy speculations on desirable techno futures. 
-
+The workshop incorporates two experimental approaches simultaneously: one that is focused on
+exploring strategies from DIY biotechnology where bacteria found in local iron-rich soil are harnessed to generate and store energy. And secondly, by peeling back to the bare-bones of communication, and creating our own far from flawless but hyperlocal interpersonal protocols for information transfer. SoilPunk: muddy speculations on desirable techno futures. 
 
 
 # Table of contents
@@ -28,7 +26,6 @@ And secondly: by exploring the strategies from DIY biotechnology where bacteria 
 	* [Day 2 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1---duration-3-4-hours)
 4. [Workshop version 2 - hybrid](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1---duration-3-4-hours)
 
-<span style="color:red"></span>
 
 
 # 1. Materials and tools
@@ -38,7 +35,7 @@ And secondly: by exploring the strategies from DIY biotechnology where bacteria 
 
 *Materials*
 
-<span style="color:red">@Hackitects, pls completes</span>
+<span style="color:red">@Hackitects, pls complete</span>
 
 * transparent containers (e.g. plastic bottles)
 * mud collected from river beds and swamps where you can see reddish water (this is full of iron)
@@ -72,7 +69,7 @@ And secondly: by exploring the strategies from DIY biotechnology where bacteria 
 * a 1.5V AA battery (doesn't need to be full)
 * thin enameled copper wire, about 100 cm
 * 2 crocodile clips
-* a few jumper wires will be handy
+* 4 jumper wires
 * a momentary switch (a push button)
 * an AA battery clip (1 cell)
 
@@ -109,7 +106,7 @@ Before starting: check kit and supplies (some shopping might be necessary)
 
 <span style="color:red">**Additional details coming soon!**</span>
 
-The pre-recorded video and instructions will address the following quesitons: 
+The pre-recorded video and instructions will address the following questions: 
 
 * What is a healthy soil? what lives in the soil?
 * What is geobacteria? where to find it? how does it purify water? what does it need to generate electricity?
@@ -149,8 +146,8 @@ When attacking environmental pollutants such as aromatic hydrocarbons, Geobacter
 
 * 5 mins re-explaining how to prepare the membrane.
 * 10 mins preparation of the membrane:
-	* Start with measuring 7grams of Agar Agar, and 200ml of water.
-	* Mix the agar with the water and one cube of the broth powder in a pan and heat it till it boils around 20 sec.
+	* Start with measuring 7 grams of Agar Agar, and 200 ml water.
+	* Mix the agar with the water and one cube of the broth powder in a pan and heat it till it boils for around 20 sec.
 	* Put the mix in the membrane tubes, after sealing one of the tubes sides with tape to avoid the liquid mix from leaking.
 	* Place the filled tubes on the side to solidify
 
@@ -161,7 +158,7 @@ When attacking environmental pollutants such as aromatic hydrocarbons, Geobacter
 
 5 mins re-explaining how to prepare the 2-cells:
 
-* Start by cutting out a circle in the plastic container (using the circle head cutter in a drill). it has the same diameter as the membrane. 
+* Start by cutting out a circle in the plastic container (using the circle head cutter in a drill). It has the same diameter as the membrane. 
 * Make two small holes on top of both containers to attach the membrane to them.
 * Cut a circle from the stainless steel net. It has the same diameter and shape as the plastic container available to use for the batteries, so if the container has a regtangular section, the net should be cut as the same shape of the container.
 * Connect the cut net to a wire.
@@ -173,7 +170,7 @@ Building cathodes (coal with grids and wires):
 
 * Brush epoxy glue on the nets on both sides.
 * Coat the brushed nets with the powdered active coal.
-* Make sure all the net is covered with coal then press the coal on the net using a flat surface and force.
+* Make sure all the net is covered with coal, then press the coal on the net using a flat surface and force.
 
 <img src="./images/biobattery.png" alt="" width="600"/>
 
@@ -185,11 +182,11 @@ Filling the containers :
 * Place the cathodes on the mud container then add more mud and smash it again to ensure no air bubbles are in the mud.
 * Fill the other container with clean water and place a wire in it. 
 
-###Connecting the batteries in series and measuring the power - approx 30 mins
+### Connecting the batteries in series and measuring the power - approx 30 mins
 
 * Measure the Voltage across the 2-cell battery by touching the wires with the multimeter probes. 
 * Register your results
-* Connect the bateries to the breadboard and measure the Voltages. 
+* Connect the bateries to the breadboard and measure the voltage. 
 
 
 ### Allow the bacteria to multiply and charge the biobattery for 15-35 hours
@@ -204,8 +201,7 @@ After assembling, each cell will need a minimum of 15 hours to generate 0.5V of 
 
 ## Day 2 - Rethinking communication protocols - duration: 3-4 hours
 
-Today we make an inductor circuit (joule thief) to amp up the small voltage we get from the mud battery. Take a look at [this video](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/) to get the basic idea. We will replace the AA battery with our mud battery, and we will add a button to this circuit (and optional: a buzzer) to use it to make light and sound signals. Thus, we are creating the basic setup for encoding and sending information (on/off, zeros/ones, lights/no light, sound/no sound). 
-With this workshop and the simple parameters it provides we propose to explore the concept of communication protocols that we encounter every day in implicit and explicit ways, AND create our own protocols for communication using a very bare bones, hyperlocal, low energy infrastructure!  
+Today we make an inductor circuit also referred to as a "joule thief" to amp up the small voltage we get from the mud battery. Take a look at [this video](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/) to get the basic idea. We will replace the AA battery with our mud battery, and we will add a button to this circuit (and optional: a buzzer) to use it to make light and sound signals. Thus, we are creating the basic setup for encoding and sending information (on/off, zeros/ones, lights/no light, sound/no sound). With this workshop and the simple parameters it provides we propose to explore the concept of communication protocols that we encounter every day in implicit and explicit ways, AND create our own protocols for communication using a very bare bones, hyperlocal, low energy infrastructure!  
 
 ### Shared activity with all nodes: Collective reading 
 
@@ -216,7 +212,7 @@ Then, let's meet on this [Etherpad](https://etherpad.hackersanddesigners.nl/p/so
 
 We will also have a [BBB room](https://bbb.constantvzw.org/b/hd4-tzj-me3-3sa) open. But most of the discussion will happen in writing on the pad. We hope through this shared moment we can facilitate an moment of connectedness across nodes/scripts/space/time.
 
-### Intro by H&D - approx 60 mins
+### Introducing and exploring ideas - approx 60 mins
 
 ##### <span style="color:red">[Short 5 min max prerecorded video by H&D about the idea and set up of the workshop]</span>
 
@@ -228,7 +224,7 @@ We will also have a [BBB room](https://bbb.constantvzw.org/b/hd4-tzj-me3-3sa) op
 
 ##### Collective exercises to set the scene for this workshop:  
 
-The purpose of the following exercises is to exchange associations and thoughts about communication protocols in different contexts (walkie talkies, telephones, smoke signals, secret communication with classmates during exams, serial/SPI/I2C communication between computer chips, IP, interactions at the water coffee machine) and to get a collective sense of what the knowledge and interest are of the group in relation to the topic of *alternative communication protocols*. We do not expect prior knowledge or answers/solutions to problems but depart from and work with the imagination and fascinations of the respective groups.
+The purpose of the following exercises is to exchange associations and thoughts about communication protocols in different contexts (walkie talkies, telephones, smoke signals, secret communication with classmates during exams, serial/SPI/I2C communication between computer chips, IP, interactions at the coffee machine) and to get a collective sense of what the knowledge and interest are of the group in relation to the topic of *alternative communication protocols*. We do not expect prior knowledge or answers/solutions to problems but depart from and work with the imagination and fascinations of the respective groups.
 
 Hopefully by the end of the exercises we have to accumulated a collective vocabulary that sets into motion a direction for the communication protocols you will be making!
 
@@ -265,10 +261,10 @@ We all experience troubled transmission all the time. Broken connection, low ban
 * [Byfield, Ted (2008) “Information” in: Matthew Fuller (ed) *Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
 * *The commons: Infrastructures for troubling times* by Lauren Berlant (this text is part of the reader)
 
-**References from the world of computing:**
+**References from the field of computing:**
 
-* I2C protocol (note the insert on changing terminology to describe relationship between devices): [https://learn.sparkfun.com/tutorials/i2c/all](https://learn.sparkfun.com/tutorials/i2c/all)
 * Binary counting system: [https://learn.sparkfun.com/tutorials/binary](https://learn.sparkfun.com/tutorials/binary)
+* I2C protocol (note the insert on changing terminology to describe relationship between devices): [https://learn.sparkfun.com/tutorials/i2c/all](https://learn.sparkfun.com/tutorials/i2c/all)
 * SPI protocol: [https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports)
 
 
@@ -280,11 +276,11 @@ This paragraph describes how you can build an inductor circuit that can power an
 
 <img src="./images/joulethief_simple.jpeg" alt="" width="600"/>
 
-Build a joule thief circuit with the components provided, following the step-by-step instructions in the script (will be translated adaptation of this [Dutch tutorial](https://ingegno.be/realisations/jouledief.html)) There are a lot of similar tutorials so if anything is unclear it's worth looking around a bit, maybe somebody else has a way of explaining that is clearer for you :) 
+Build a joule thief circuit with the components provided, following the step-by-step instructions in the script (an adaptation of this [Dutch tutorial](https://ingegno.be/realisations/jouledief.html)) There are a lot of similar tutorials so if anything is unclear it's worth looking around a bit, maybe somebody else has a way of explaining that is clearer for you :) 
 
-[Example of the working circuit with a LED](https://www.youtube.com/watch?v=umFwwJs-5BA)
+[Video of the working circuit with a LED](https://www.youtube.com/watch?v=umFwwJs-5BA)
 
-[Example of the working circuit with a buzzer](https://www.youtube.com/watch?v=va7Zxcri2gk)
+[Video of the working circuit with a buzzer](https://www.youtube.com/watch?v=va7Zxcri2gk)
 
 
 ##### Step 1: prepare the inductor 
@@ -294,30 +290,30 @@ Build a joule thief circuit with the components provided, following the step-by-
 
 <img src="./images/copperwire.jpeg" alt="" width="600"/>
 
-- take approx. 100cm of enameled copper wire and fold in half
+- take approx. 60 cm of enameled copper wire and fold in half
 - try not to make bumps and tangles, keep wire nice and smooth
 - loop the closed end through the ferrite toroid, keep about 4 cm 
 
 <img src="./images/11windings.jpeg" alt="" width="600"/>
 
-- make 11 windings with the double, make sure they sit next to each other neatly
+- make 10-20 windings with the double wire, make sure they sit next to each other neatly. (Note: some people on the internets claim it takes 20 windings, others say 14, we suppose it all depends on wire and toroid diameter so try some things out and see if it makes a difference?)
 - clip the ends, make sure you have about 4 cm left
 - now clip the closed end of the loop from the beginning of the coil
+- you now have 2 separate wires wrapped around the ring, creating 4 loose leads: 2 going into the coil , and 2 coming out of the coil at the end of your winding.
+
+<img src="./images/stripwires.jpeg" alt="" width="600"/>
+
+- for all four ends, take a lighter and burn off the plastic enamel wrapping the copper wire (you might not see it but it's there and acts as an insulator, preventing electricity to go through). 
+- sand off the ends until you see copper color that is slightly lighter than before.
+- next, you want to take a lead from the beginning of (and going into) the coil, and connect it to an one of the end leads coming out of the coil. But these two should not be the same wire! So check with the multimeter that it's the other wire you are connecting (see images). Wrap these around each other a couple times, making sure you still have 2 cm untangled wire at the end. In the pictures we marked the two different wires with two piece of tape before coiling, then you can see it without a multimeter too. 
 
 <img src="./images/markwires.jpeg" alt="" width="600"/>
 
-- you now have 2 separate wires wrapped around the ring, creating 4 loose leads: 2 at the beginning, and 2 at the end of the coil
 - take a multimeter and match which lead at the beginning is connected to an end lead (use the continuity setting, if it beeps, it's the same wire).
 
 <img src="./images/connectwires.jpeg" alt="" width="600"/>
 
- 
-- what we now want to do is take a lead from the beginning of (and going into) the coil, and connect it to an one of the end leads coming out of the coil. But these two should not be the same wire! So check with the multimeter that it's the other wire you are connecting (see images). Wrap these around each other a couple times, making sure you still have 2 cm untangled wire at the end. In the pictures we marked the two different wires with two piece of tape before coiling, then you can see it without a multimeter too. 
 
-<img src="./images/stripwires.jpeg" alt="" width="600"/>
-
-- now for all four ends, take a lighter and burn off the plastic enamel wrapping the copper wire (you might not see it but it's there and acts as an insulator, preventing electricity to go through). 
-- sand off the ends until you see copper color that is slightly lighter than before.
 - this is your inductor! the two connected leads will be connected to the positive + side of your AA or mud battery, and the two other separate leads are connected to the transistor and the resistors as shown in the images of the circuit. 
 
 
@@ -325,20 +321,20 @@ Build a joule thief circuit with the components provided, following the step-by-
 
 Gather all your components. These should be in the kit provided to your node, or if you are a remote participant, you will have received a shopping list. The parts might look slighty different but recognisable. You will also receive a battery clip for easier connecting to the breadboard with crocodile clips.
 
-<img src="./images/circuit_led.png" alt="" width="600"/>
+<img src="./images/circuit.png" alt="" width="600"/>
 
-**LED**
+**LED:**
 Note that this part has polarity, so should be connected with the right orientation. The LONGER leg (usually with the bend) is marked in RED in the diagrams. The SHORTER leg is marked in BLACK in the images and is always connected to GND (or -).
 
-**NPN transistor**: Note that this part also has an orientation. In the diagram you see that the transistor's flat side is facing you, and the round side is facing the away. Make sure you copy this orientation when you connect it to your breadboard.
+**NPN transistor:** Note that this part also has an orientation. In the diagram you see that the transistor's flat side is facing you, and the round side is facing the away. Make sure you copy this orientation when you connect it to your breadboard.
 
-**Your inductor coil** obviously looks different :) In the diagram you see the two wires making up the coil marked with a different color (blue or yellow). Ours are both copper colored but you will have marked them with tape or measured with a multimeter. The leads on the right are connected to row 14, with the + side of your battery. You can either wrap them making one leg so to speak, or keep them separated and just connect both on row 14. Both options are a way of connecting them.
+**Your inductor coil:** obviously looks different :) In the diagram you see the two wires making up the coil marked with a different color (blue or yellow). Ours are both copper colored but you will have marked them with tape or measured with a multimeter. The leads on the right are connected to row 16, with the + side of your battery. You can either wrap them making one leg so to speak, or keep them separated and just connect both on the same row. Both options are a way of connecting them.
 
-The leads on the left side of the coil are not connected to each other. One goes to the right leg of the transistor (row 5) and one is connected to the the resistor (row 7).
+The leads on the left side of the coil are not connected to each other. One goes to the right leg of the transistor (row 8) and one is connected to the the resistor (row 10).
 
-**Button**: has 4 legs. In the diagram, the two legs on the left are connected, and the two legs on the right side are connected too. When the button is pressed, the left side and the right side make a connection too (allowing electrons to flow). On the back side you can see marks showing you which legs are connected. If unsure, check with the multimeter (continuity setting). If your button is not working, you can try rotating it 90 degrees, you might have it connected in the wrong orientation.
+**Button:** has 4 legs. In the diagram, the two legs on the left are connected, and the two legs on the right side are connected too. When the button is pressed, the left side and the right side make a connection too (allowing electrons to flow). On the back side you can see marks showing you which legs are connected. If unsure, check with the multimeter (continuity setting). If your button is not working, you can try rotating it 90 degrees, you might have it connected in the wrong orientation.
 
-**Resistor** has no orientation, either way is fine. You can influence the working of the circuit a bit by trying different values. If you have more resistors: try some in the range of 400-2000ohm and see what happens!
+**Resistor:** has no orientation, either way is fine. You can influence the working of the circuit a bit by trying different values. If you have more resistors: try some in the range of 400-2000ohm and see what happens!
 
 In case you want to know the schematic (a bit abstract but can be helpful sometimes)
 
@@ -352,22 +348,23 @@ Check that your circuit works by connecting one 1.5V AA battery to it. The LED s
 1. check all the connections again, wiggle them a little, make sure they're firmly in the breadboard
 2. check again that all the connections are in the right rows/columns on the breadboard
 3. try another battery (safe bet is to try with one that has at least 1V left)
+4. Try a coil with a different amount of windings (somebody whose circuit is working probably has a good coil too, ask if you can borrow it to check whether your coil is the problem). If so: change the amount of windings.
 
-*Optional*: replace the LED with a buzzer to send sound signals. The sound may be lower/higher depending on the amount of windings in your coil, and the Voltage of the battery. Changing the value of the resistor can tweak this a bit (try some resistors in the 200-2000 Ohm range if you have them).
-
-<img src="./images/circuit_buzzer.png" alt="" width="600"/>
+*Optional*: replace the LED with a buzzer to send sound signals. The sound may be lower/higher depending on the amount of windings in your coil, and the Voltage of the battery. Changing the value of the resistor can tweak this a bit (try some resistors in the 400-2000 Ohm range if you have them).
 
 ##### Step 4: connect the mud battery to the circuit
 
 Test the mud batteries with a voltmeter and find the positive and negative pole.
 
-* Find the positive and the negative pole. If you try to measure the Voltage of the battery and the display gives a negative images: your probes are the wrong way around (you're holding the black lead to the positive pole of the battery instead of the negative pole). If it reads a positive value: your red probe is touching the positive pole and the black probe is touching the negative pole. With this information you should be able to replace your AA battery with the mud battery the right way around. 
+* Find the positive and the negative pole. If you try to measure the Voltage of the battery and the display gives a negative value: your probes are the wrong way around (you're holding the black lead to the positive pole of the battery instead of the negative pole). If it reads a positive value: your red probe is touching the positive pole and the black probe is touching the negative pole. With this information you should be able to replace your AA battery with the mud battery the right way around. 
 * if it measures 0.5V or higher proceed with single battery
-* if it measures less than 0.5V, connect two batteries in series. For more info: [https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html](https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html) 
+* if it measures less than 0.5V, connect two mud batteries in series. For more info: [https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html](https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html) 
 
 ### Design a communication protocol for your device - approx 90 mins
 
-Pair up or make groups to design a communication protocol. How can you convey information with only on/off? How does the receiver now when to be alert? How do they know when the message is ended? Communicating is as much about listening as it is about sending. What might be ways to attune? How might this translate to the simplest of forms? In comparison: a simple walkie talkie protocol entails some agreements such as: 
+Pair up or make groups to design a communication protocol and read through the following paragraph together. Then explore some of these questions to design your protocol.  
+
+How can you convey information with only on/off? How does the receiver now when to be alert? How do they know when the message is ended? Communicating is as much about listening as it is about sending. What might be ways to attune? How might this translate to the simplest of forms? In comparison: a simple walkie talkie protocol entails some agreements such as: 
 
 * opening with: "person A to person B, over"
 * responding with: "person B to person A, over"
@@ -391,7 +388,7 @@ Research and think a bit more on this together, and try to create an analog comm
 
 * Connect your joule thief to the mud battery and see if it works. We haven't tried this yet, so it really is an experiment! 
 * Try sending information using your joulethief, using your communication protocol
-* Share the resulting messages, discuss how and when entropy (noise) entered the process
+* Share the resulting messages, discuss how and when entropy (noise) entered the process and what that means for what and how is communicated.
 * Display your mud batteries with LED lights in your space :) 
 
 ------------------
