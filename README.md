@@ -1,6 +1,8 @@
 # Soilpunk workshop HDSA22
 
-SoilPunk workshop HDSA2022<img src="./images/soilpunkwsimage.jpg" alt="" width="600"/>
+SoilPunk workshop HDSA2022
+
+<img src="./images/soilpunkwsimage.jpg" alt="" width="600"/>
 
 
 *ALTERNATIVE SCRIPT - SOILPUNK*
@@ -35,20 +37,31 @@ And secondly: by exploring the strategies from DIY biotechnology where bacteria 
 
 # 1. Materials and tools
 
-<span style="color:red">**For the mud battery**</span>
+
+**For the mud battery**
 
 *Materials*
 
-* this
-* this
-* that
+<span style="color:red">@Hackitects, pls completes</span>
+
+* transparent containers (e.g. plastic bottles)
+* mud collected from river beds and swamps where you can see reddish water (this is full of iron)
+* metal mesh and metal wires (LENGTH?)
+* conductive wire (LENGTH?)
+* active coal or graphite (or any material that contains carbon)
+* plastic tubes
+* agar agar - 7 g
+* broth powder (salts substance) - (AMOUNT?)
+* water - 200 ml
+* epoxy glue
 
 *Tools*
 
-* this
-* this
-* that
-
+* pot and stove to cook the agar mixture
+* multimeter
+* drill with a circle head cutter
+* clippers
+* breadboard
 
 
 **For the joule thieves**
@@ -68,7 +81,6 @@ And secondly: by exploring the strategies from DIY biotechnology where bacteria 
 * an AA battery clip (1 cell)
 
 <img src="./images/parts.jpeg" alt="" width="600"/>
-
 
 *Tools*
 
@@ -96,29 +108,101 @@ Before starting: check kit and supplies (some shopping might be necessary)
 
 ## Day 1: Making biobatteries - duration: 3-4 hours
 
-<span style="color:red">**Addd info hackitects**</span>
 
-Today we make the power supply with soil, bacteria and time
+### Intro soil & geo-bacteria (pre-recorded video + written instructions) - approx 30 mins
+
+<span style="color:red">**Additional details coming soon!**</span>
+
+The pre-recorded video and instructions will address the following quesitons: 
+
+* What is a healthy soil? what lives in the soil?
+* What is geobacteria? where to find it? how does it purify water? what does it need to generate electricity?
+* What are types of soil batteries?
+* What are 2 cell batteries ? what are important elements for a bacterial cell battery to properly work ? how much electricity does it generate?
+* What is the protocol for creating a bacterial battery? what are the different parts needed? (membrane, wires, coal sheets..etc) how to prepare them?
+
+**References** 
+
+* [SmartKidsLab Waag - Measure Microbes](http://smartkidslab.org/content/english/3-microbenmeter/SmartKidsLab-Measure-microbes.pdf)
+* [We Make Money Not Art - Bacteria Battery](https://we-make-money-not-art.com/bacteria_battery/)
+* [Microbial fuel cell - Elbonian style](https://www.youtube.com/watch?v=_zCsAfEbVRc)
+
+**Soil batteries? Geobacter!**
+
+Scientists have experimented with a variety of bacteria, but one kind that environmental microbiologist Derek Lovly at the University of Massachusetts at Amherst and his colleagues have focused on is Geobacter, which is naturally found in many soils and sediments. 
+
+<img src="./images/geobacter.png" alt="" width="600"/>
+
+*"Geobacter grows by breaking down organic materials and transferring electrons pretty much onto anything that looks like iron", he said. "It's up in the top of the list in terms of generating high power densities".*
+
+When attacking environmental pollutants such as aromatic hydrocarbons, Geobacter can break down some 90 percent, Lovley said. All in all, systems incorporating Geobacter can recover up to nearly all the electrons within sewage. 
+
+<img src="./images/geobacter_sulfurreducens.png" alt="" width="600"/>
+
+**Where to find geobacter?**
+
+<span style="color:red"> [more info for nodes coming]</span>
+
+*Amsterdam-Noord, the Netherlands*
+
+<img src="./images/wheretofind_ams.png" alt="" width="600"/>
+
+### The proton exchange membrane protocol - approx 45 mins
+
+<span style="color:red"> [detailed steps will be provided]</span>
+
+* 5 mins re-explaining how to prepare the membrane.
+* 10 mins preparation of the membrane:
+	* Start with measuring 7grams of Agar Agar, and 200ml of water.
+	* Mix the agar with the water and one cube of the broth powder in a pan and heat it till it boils around 20 sec.
+	* Put the mix in the membrane tubes, after sealing one of the tubes sides with tape to avoid the liquid mix from leaking.
+	* Place the filled tubes on the side to solidify
+
+<img src="./images/doublecell.png" alt="" width="600"/>
 
 
-### Intro Hackitects (pre-recorded video + written instructions)
+### Preparation for two cell battery - approx 30 mins
 
-Steps
+5 mins re-explaining how to prepare the 2-cells:
 
-Steps
-
-
-
-### Make DIY biobatteries from iron-rich soil with materials supplied 
-
-Steps
-
-Steps
+* Start by cutting out a circle in the plastic container (using the circle head cutter in a drill). it has the same diameter as the membrane. 
+* Make two small holes on top of both containers to attach the membrane to them.
+* Cut a circle from the stainless steel net. It has the same diameter and shape as the plastic container available to use for the batteries, so if the container has a regtangular section, the net should be cut as the same shape of the container.
+* Connect the cut net to a wire.
 
 
-### Allow the bacteria to multiply and charge the biobattery for at least 24 hours
+### Building the batteries - approx 30 mins
 
-Info
+Building cathodes (coal with grids and wires):
+
+* Brush epoxy glue on the nets on both sides.
+* Coat the brushed nets with the powdered active coal.
+* Make sure all the net is covered with coal then press the coal on the net using a flat surface and force.
+
+<img src="./images/biobattery.png" alt="" width="600"/>
+
+
+Filling the containers :
+
+* Attach the solidified membrane to both of the containers. 
+* In one of the containers place a layer of mud, smash it on the table to make sure that all the air bubbles are released.
+* Place the cathodes on the mud container then add more mud and smash it again to ensure no air bubbles are in the mud.
+* Fill the other container with clean water and place a wire in it. 
+
+###Connecting the batteries in series and measuring the power - approx 30 mins
+
+* Measure the Voltage across the 2-cell battery by touching the wires with the multimeter probes. 
+* Register your results
+* Connect the bateries to the breadboard and measure the Voltages. 
+
+
+### Allow the bacteria to multiply and charge the biobattery for 15-35 hours
+
+After assembling, each cell will need a minimum of 15 hours to generate 0.5V of electricity. Once it reaches this amount, we can continue with part two of the workshop.  
+
+<img src="./images/graph.png" alt="" width="400"/>
+
+
 
 --------------------------
 
