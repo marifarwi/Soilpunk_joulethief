@@ -1,25 +1,23 @@
 # Soilpunk_joulethief
 
-alternative for soilpunk workshop HDSA2022<img src="./images/soilpunkwsimage.jpg" alt="" width="600"/>
+SoilPunk workshop HDSA2022<img src="./images/soilpunkwsimage.jpg" alt="" width="600"/>
 
 
 *ALTERNATIVE SCRIPT - SOILPUNK*
 
-This workshop is developed by the two collectives Hackers and Designers and Hackiteckts in the context of the H&D Summer Academy 2022 "Connecting Oterhwise. We invite participants and faciliators of the different nodes to imagine and try out ways to radically reduce the energy use associated with communication technologies such as the Internet. 
+This workshop is developed by the two collectives Hackers and Designers and Hackiteckts in the context of the H&D Summer Academy 2022 "Connecting Oterhwise. We invite participants and faciliators of the different nodes to imagine and try out ways to radically reduce the energy use associated with communication technologies such as the Internet and consider a low-tech approaches to 'connecting otherwise'. 
 
 Some questions / points of discussion we want to explore through this hands-on workshop:
 
 * making tangible abstract concepts around communication technology / technical infrastructure / connectivity
 * problematizing and considering different narratives and vocabularies around 'the internet'
 * negotiating problematic history of connectivity and communication infrastructure 
-* the solarpunk approach (neither tech-optimist nor tech-pessimist ... leaning into complexities and brokeness of the now while working towards desirable, equitable futures
-* imagining and exercising desirable futures for communication technologies that are les wasteful, accessible, inequitable, self-reflexive and fun! 
+* the solarpunk approach: imagining and exercising desirable futures for communication technologies that are less wasteful, accessible, inequitable, self-reflexive and fun! 
 
 The workshop incorporates two experimental approaches simultaneously: one that is focused on peeling back to the bare-bones of communication, and creating our own far from flawless but hyperlocal interpersonal protocols for information transfer. 
 
-And secondly: by exploring the strategies from DIY biotechnology where bacteria found in local iron-rich soil are harnessed to generate and store energy. SoilPunk: muddy speculations on desirable techno futures.
+And secondly: by exploring the strategies from DIY biotechnology where bacteria found in local iron-rich soil are harnessed to generate and store energy. SoilPunk: muddy speculations on desirable techno futures. 
 
-**Timing: this workshop consists of two parts. In between part 1 and part 2, make sure there's a break of 15-35 hours. The bacteria need this time to grow and multiply, and charge your mud batteries.**
 
 
 ## Table of contents
@@ -90,7 +88,7 @@ To build the joule thief you will need to have basic working knowledge of how to
 
 ## WORKSHOP VERSION 1 (IN-PERSON)
 
-Duration: 8 hours (2x4 hrs, should have a 15-35 hour break in between to charge battery).
+Duration: 8 hours (2x4 hrs, should have a one day break in between to charge battery)
 
 Before starting: check kit and supplies (some shopping might be necessary)
 
@@ -142,7 +140,6 @@ The purpose of the following exercises is to exchange associations and thoughts 
 Hopefully by the end of the exercises we have to accumulated a collective vocabulary that sets into motion a direction for the communication protocols you will be making!
 
 You could use an Etherpad ((create your own)[https://etherpad.hackersanddesigners.nl/]) or a large paper for this exercise.
-
 
 **Part 1: 
 
@@ -276,38 +273,21 @@ Test the mud batteries with a voltmeter and find the positive and negative pole.
 * if it measures less than 0.5V, connect two batteries in series. For more info: [https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html](https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html) 
 
 
-**PROTOCOL DESIGN**
+**GROUP 2**
 
-<span style="color:red">Scenario + prompt here</spans>
-
-Pair up or make groups and design a communication protocol. How can you convey information with only on/off? How does the receiver now when to be alert? How do they know when the message is ended? Communicating is as much about listening as it is about sending. What might be ways to attune? How might this translate to the simplest of forms? In comparison: a simple walkie talkie protocol entails some agreements such as: 
+Group 2 can pair up or make groups and design a communication protocol. How can you convey information with only on/off? How does the receiver now when to be alert? How do they know when the message is ended? Communicating is as much about listening as it is about sending. What might be ways to attune? How might this translate to the simplest of forms? In comparison: a simple walkie talkie protocol entails some agreements such as: 
 
 * opening with: "person A to person B, over"
 * responding with: "person B to person A, over"
 * closing with: "over and out"
 
-Here you see there's a certain signal dedicated to alert the listener(s) that a message is coming and they should keep their eyes/ears peeled. And similarly, when they can rest easy. The sender might want to know that the listener is actually there and they're not taking to a wall.  Or that the message did or did not come across clearly and they might need to repeat. 
+Research and think a bit more on this together, and try to create an analog communication protocol to send e.g. an SMS (160 characters), an emoji, an image, a phone number, other. 
 
-Research and think a bit more on this together, and try to create an analog communication protocol for your joulethief messaging device. Some questions to think about when designing a protocol:
-
-* the scale from bits to meaning (from on/off to full-blown storytelling and everything in between), what do you want to convey? e.g. an SMS (160 characters), an emoji, an image, a phone number, other. 
-* speed (how fast can you speak/listen?)
-* size (how long can you speak/listen?)
-* access (who can speak/listen?)
-* time (making sure you are on the same clock)
-* how to identify the start of communication? 
-* how to identify the end of communication? 
-* how to make sure someone is actually listening?
-
-**References from the world of computing:**
-
-* SPI protocol: [https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports)
-* I2C protocol: [https://learn.sparkfun.com/tutorials/i2c/all](https://learn.sparkfun.com/tutorials/i2c/all)
-* Binary counting system: [https://learn.sparkfun.com/tutorials/binary](https://learn.sparkfun.com/tutorials/binary)
+* *Question to consider*
+* *Question to consider*
 
 
-
-**USE THE DEVICE WITH YOUR PROTOCOL**
+**TOGETHER**
 
 * Connect your joule thief to the mud battery and see if it works. We haven't tried this yet, so it really is an experiment! 
 * Try sending information using your joulethief, using your communication protocol
