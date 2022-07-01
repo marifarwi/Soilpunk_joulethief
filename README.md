@@ -20,9 +20,11 @@ And secondly: by exploring the strategies from DIY biotechnology where bacteria 
 	* [Day 2 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1---duration-3-4-hours)
 4. [Workshop version 2 - hybrid](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1---duration-3-4-hours)
 
+<span style="color:red"></span>
+
 ## 1. Materials and tools
 
-**For the mud battery**
+<span style="color:red">**For the mud battery**</span>
 
 *Materials*
 
@@ -35,6 +37,8 @@ And secondly: by exploring the strategies from DIY biotechnology where bacteria 
 * this
 * this
 * that
+
+
 
 **For the joule thieves**
 
@@ -64,6 +68,8 @@ And secondly: by exploring the strategies from DIY biotechnology where bacteria 
 
 ## Prior knowledge that will come in handy
 
+<span style="color:red">add info for mud battery</span>
+
 To build the joule thief you will need to have basic working knowledge of how to use a multimeter (or watch a couple of youtube videos and you'll be fine too). It's handy if at least one person has basic knowledge of how to build and troubleshoot a breadboard circuit. But just looking carefully at the images and checking your own set up will probably get you there as well! And you can contact us for help via Zulip! 
 
 * [A multimeter tutorial](https://www.youtube.com/watch?v=bF3OyQ3HwfU)
@@ -74,9 +80,12 @@ To build the joule thief you will need to have basic working knowledge of how to
 ## WORKSHOP VERSION 1 (IN-PERSON)
 
 Duration: 8 hours (2x4 hrs, should have a one day break in between to charge battery)
+
 Before starting: check kit and supplies (some shopping might be necessary)
 
 ### Day 1 - duration: 3-4 hours
+
+<span style="color:red">**Addd info hackitects**</span>
 
 Today we make the power supply with soil, bacteria and time
 
@@ -108,10 +117,14 @@ Today we make an inductor circuit (joule thief) to amp up the small voltage we g
 
 Exchange thoughts about communication protocols in different contexts (walkie talkie, SPI, IP, daily life) using the background information and prompts provided below e.g. [this wiki page](https://en.wikipedia.org/wiki/Communication_protocol), or for example [this youtube video](https://youtu.be/kkMVv0dMavM) 
 
+<span style="color:red">**provide more detail and exercises here**</span>
+
 * example + questions to think about
 * example + questions to think about
 
 This short text migt be interesting to read and discuss together: Byfield, Ted (2008) “Information” in: Matthew Fuller (ed) *Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131. [PDF here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
+
+<span style="color:red">**provide more detail and exercises here**</span>
 
 * Reading question 1
 * Reading question 1
@@ -121,6 +134,8 @@ This short text migt be interesting to read and discuss together: Byfield, Ted (
 #### How to make the most of a battery: DIY inductor intro (Joule thief)
 
 We will build an inductor circuit that can power an LED with as little as 0.5V (in comparison: typically you need 2V). Our mud battery is likely to be able to supply this amount after 24 hours if all went well. We added a button to the circuit so the device can double as an extremely simple communication device. By connecting the LED you can send light patterns using the button. If you replace the LED with the little buzzer you can send sound signals. 
+
+<span style="color:red">**update image with version that has corresponds w diagrams**</span>
 
 <img src="./images/joulethief_simple.jpeg" alt="" width="600"/>
 
