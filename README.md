@@ -1,11 +1,12 @@
-# Soilpunk_joulethief
+# Soilpunk workshop HDSA22
 
 SoilPunk workshop HDSA2022<img src="./images/soilpunkwsimage.jpg" alt="" width="600"/>
 
 
 *ALTERNATIVE SCRIPT - SOILPUNK*
 
-This workshop is developed by the two collectives Hackers and Designers and Hackiteckts in the context of the H&D Summer Academy 2022 "Connecting Oterhwise. We invite participants and faciliators of the different nodes to imagine and try out ways to radically reduce the energy use associated with communication technologies such as the Internet and consider a low-tech approaches to 'connecting otherwise'. 
+This workshop is developed by the two collectives Hackers 
+& Designers and Hackitects in the context of the H&D Summer Academy 2022 "Connecting Otherwise. We invite participants and facilitators of the different nodes to imagine and try out ways to radically reduce the energy use associated with communication technologies such as the Internet and consider a low-tech approaches to 'connecting otherwise'. 
 
 Some questions / points of discussion we want to explore through this hands-on workshop:
 
@@ -20,7 +21,7 @@ And secondly: by exploring the strategies from DIY biotechnology where bacteria 
 
 
 
-## Table of contents
+# Table of contents
 
 1. [Materials and tools](https://github.com/hackersanddesigners/Soilpunk_joulethief#materials-and-tools)
 2. [Prior knowledge that will come in handy](https://github.com/hackersanddesigners/Soilpunk_joulethief#prior-knowledge-that-will-come-in-handy)
@@ -31,7 +32,8 @@ And secondly: by exploring the strategies from DIY biotechnology where bacteria 
 
 <span style="color:red"></span>
 
-## 1. Materials and tools
+
+# 1. Materials and tools
 
 <span style="color:red">**For the mud battery**</span>
 
@@ -75,7 +77,7 @@ And secondly: by exploring the strategies from DIY biotechnology where bacteria 
 * a multimeter
 * clippers to cut wires
 
-## Prior knowledge that will come in handy
+# 2. Prior knowledge that will come in handy
 
 <span style="color:red">add info for mud battery</span>
 
@@ -86,19 +88,20 @@ To build the joule thief you will need to have basic working knowledge of how to
 * [Background info on how inductors work](https://www.youtube.com/watch?v=KSylo01n5FY)
 * [	Video of someone else who made a joulethief](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/)
 
-## WORKSHOP VERSION 1 (IN-PERSON)
+# 3. Workshop version 1 (in-person)
 
-Duration: 8 hours (2x4 hrs, should have a one day break in between to charge battery)
+Duration: 8 hours (2x4 hrs, should have a 15-35 hour break in between to charge battery)
 
 Before starting: check kit and supplies (some shopping might be necessary)
 
-### Day 1 - duration: 3-4 hours
+## Day 1: Making biobatteries - duration: 3-4 hours
 
 <span style="color:red">**Addd info hackitects**</span>
 
 Today we make the power supply with soil, bacteria and time
 
-#### Intro Hackitects (pre-recorded video + written instructions)
+
+### Intro Hackitects (pre-recorded video + written instructions)
 
 Steps
 
@@ -106,56 +109,61 @@ Steps
 
 
 
-#### Make DIY biobatteries from iron-rich soil with materials supplied 
+### Make DIY biobatteries from iron-rich soil with materials supplied 
 
 Steps
 
 Steps
 
 
-#### Allow the bacteria to multiply and charge the biobattery for at least 24 hours
+### Allow the bacteria to multiply and charge the biobattery for at least 24 hours
 
 Info
 
+--------------------------
 
-### Day 2 - duration: 3-4 hours
+## Day 2 - Rethinking communication protocols - duration: 3-4 hours
 
 Today we make an inductor circuit (joule thief) to amp up the small voltage we get from the mud battery. Take a look at [this video](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/) to get the basic idea. We will replace the AA battery with our mud battery, and we will add a button to this circuit (and optional: a buzzer) to use it to make light and sound signals. Thus, we are creating the basic setup for encoding and sending information (on/off, zeros/ones, lights/no light, sound/no sound). 
 With this workshop and the simple parameters it provides we propose to explore the concept of communication protocols that we encounter every day in implicit and explicit ways, AND create our own protocols for communication using a very bare bones, hyperlocal, low energy infrastructure!  
 
-#### Shared activity with all nodes: Collective reading 
+### Shared activity with all nodes: Collective reading 
 
-As part of our workshop we propose to read the following text: *Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131. Byfield, Ted (2008) “Information” in: Matthew Fuller (ed) [PDF here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
-and meet on this [Etherpad](https://etherpad.hackersanddesigners.nl/p/soilpunk-workshop-hdsa2022) with all nodes on Tuesday **9.00-10.00AM CET = 4.00-5.00 PM KST = 7.00-8.00 PM NZST** to discuss the text together. We will prepare some questions and prompts that will be released to activate and create a dramaturgy for the discussion in the pad. We will also have a [BBB room](https://bbb.constantvzw.org/b/hd4-tzj-me3-3sa) open. But most of the discussion will happen in writing on the pad.
-We hope through this shared moment we can faciliated an moment of connectedness across nodes/scripts/space/time.
+As part of our workshop we propose to read the following text: Byfield, Ted (2008) “Information” in: Matthew Fuller (ed) *Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131.
+[PDF here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
 
-#### Intro by H&D
+Then, let's meet on this [Etherpad](https://etherpad.hackersanddesigners.nl/p/soilpunk-workshop-hdsa2022) with all nodes on **Tuesday 9.00-10.00AM CET = 4.00-5.00 PM KST = 7.00-8.00 PM NZST** to discuss the text together. We will prepare some questions and prompts that will be released to activate and create a dramaturgy for the discussion in the pad. 
 
-##### [Short 5 min max prerecorded video by H&D about the idea and set up of the workshop] 
+We will also have a [BBB room](https://bbb.constantvzw.org/b/hd4-tzj-me3-3sa) open. But most of the discussion will happen in writing on the pad. We hope through this shared moment we can facilitate an moment of connectedness across nodes/scripts/space/time.
+
+### Intro by H&D - approx 60 mins
+
+##### <span style="color:red">[Short 5 min max prerecorded video by H&D about the idea and set up of the workshop]</span>
+
+<span style="color:red">*will be added ASAP*</span>
 
 ##### Collective exercises to set the scene for this workshop:  
 
-The purpose of the following exercises is to exchange associations and thoughts about communication protocols in different contexts (walkie talkie, SPI, IP, daily life) and to get a collective sense of what the knowledge and interest are of the group in relation to the topic of *alternative communication protocols*. We do not expect prior knowledge or answers/solutions to problems but depart from and work with the imagination and fascinations of the respective groups.
+The purpose of the following exercises is to exchange associations and thoughts about communication protocols in different contexts (walkie talkies, telephones, smoke signals, secret communication with classmates during exams, serial/SPI/I2C communication between computer chips, IP, interactions at the water coffee machine) and to get a collective sense of what the knowledge and interest are of the group in relation to the topic of *alternative communication protocols*. We do not expect prior knowledge or answers/solutions to problems but depart from and work with the imagination and fascinations of the respective groups.
 
 Hopefully by the end of the exercises we have to accumulated a collective vocabulary that sets into motion a direction for the communication protocols you will be making!
 
-You could use an Etherpad ((create your own)[https://etherpad.hackersanddesigners.nl/]) or a large paper for this exercise.
+You could use an Etherpad (create your own pads here: [https://etherpad.hackersanddesigners.nl](https://etherpad.hackersanddesigners.nl)) or use a large piece of paper for this exercise.
 
-**Part 1: 
+**Exercise 1:**
 
-*Facilitators release one question at a time and set a timer of 7 minutes per question:
+*Facilitators release one question at a time and set a timer of 5 minutes per question:*
 
-1. What do you associate with the term 'transmitting' -- 7 min
-2. What do you associate with the term 'receiving' -- 7 min
-3. What do you associate with the notion 'making yourself understood' -- 7 min
-4. What do you associate with the notion 'feeling understood' -- 7 min
+1. What do you associate with the term 'transmitting' -- 5 min
+2. What do you associate with the term 'receiving' -- 5 min
+3. What do you associate with the notion 'making yourself understood' -- 5 min
+4. What do you associate with the notion 'feeling understood' -- 5 min
 
-Responses to these prompts can be questions, openings, contradictions, fictions, ... there is no right or wrong.
+Responses to these prompts can be questions, openings, contradictions, fictions, ... _there is no right or wrong._ If there is time left, facilitators can invite participants to read some of the responses out loud and react to them.
 
-If there is time left, facilitators can invite participants to read some of the responses out loud and react to them.
+**Exercise 2:** 
 
-**Part 2:**  
-*Facilitators release one question at a time and set a timer of 7 minutes per question:
+*Facilitators release one question at a time and set a timer for each question (minutes indicated)*
 
 We all experience troubled transmission all the time. Broken connection, low bandwidth, frozen faces.... all gestures of infrastructures that tell but one thing "Connectivity is not to be taken for granted". 
 
@@ -165,27 +173,24 @@ We all experience troubled transmission all the time. Broken connection, low ban
 4. Pick one that you find particulary irritating and come up with a protocol that caters to the situation. -- 15 min
 
 
-**Relevant background information:  
+**Potentially relevant background information:**  
 
-[Wikipedia page of Communication Protocols](https://en.wikipedia.org/wiki/Communication_protocol), 
-[Youtube video "RFID Lab 1: Serial Peripheral Interface (SPI)"](https://youtu.be/kkMVv0dMavM) 
-["S.M.S., smoke as a medium for the masses" by Dennis de Bel] (http://dennisdebel.nl/2017/2014-sms2.0/)
-[Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131. Byfield, Ted (2008) “Information” in: Matthew Fuller (ed)] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
-[The commons: Infrastructures for troubling times* Lauren Berlant](text is part of the reader)
+* [Wikipedia page of Communication Protocols](https://en.wikipedia.org/wiki/Communication_protocol)
+* [Youtube video "RFID Lab 1: Serial Peripheral Interface (SPI)"](https://youtu.be/kkMVv0dMavM) 
+* ["S.M.S., smoke as a medium for the masses" by Dennis de Bel] (http://dennisdebel.nl/2017/2014-sms2.0/)
+* [Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131. Byfield, Ted (2008) “Information” in: Matthew Fuller (ed)] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
+* *The commons: Infrastructures for troubling times* by Lauren Berlant (this text is part of the reader)
 
 [... add more ]
 
 
-#### How to make the most of a battery: DIY inductor intro (Joule thief)
+### Make a Joule Thief - approx 90 mins
 
-We will build an inductor circuit that can power an LED with as little as 0.5V (in comparison: typically you need 2V). Our mud battery is likely to be able to supply this amount after 24 hours if all went well. We added a button to the circuit so the device can double as an extremely simple communication device. By connecting the LED you can send light patterns using the button. If you replace the LED with the little buzzer you can send sound signals. 
+This paragraph describes how you can build an inductor circuit that can power an LED with as little as 0.5V (in comparison: typically you need 2V). Our mud battery is likely to be able to supply this amount after 24 hours if all went well. We added a button to the circuit so the device can double as an extremely simple communication device. By connecting the LED you can send light patterns using the button. If you replace the LED with the little buzzer you can send sound signals. 
 
 <span style="color:red">**update image with version that has corresponds w diagramss**</span>
 
 <img src="./images/joulethief_simple.jpeg" alt="" width="600"/>
-
-
-**MAKE THE JOULE THIEF**
 
 Build a joule thief circuit with the components provided, following the step-by-step instructions in the script (will be translated adaptation of this [Dutch tutorial](https://ingegno.be/realisations/jouledief.html)) There are a lot of similar tutorials so if anything is unclear it's worth looking around a bit, maybe somebody else has a way of explaining that is clearer for you :) 
 
@@ -272,47 +277,57 @@ Test the mud batteries with a voltmeter and find the positive and negative pole.
 * if it measures 0.5V or higher proceed with single battery
 * if it measures less than 0.5V, connect two batteries in series. For more info: [https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html](https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html) 
 
+### Design a communication protocol for your device - approx 90 mins
 
-**GROUP 2**
-
-Group 2 can pair up or make groups and design a communication protocol. How can you convey information with only on/off? How does the receiver now when to be alert? How do they know when the message is ended? Communicating is as much about listening as it is about sending. What might be ways to attune? How might this translate to the simplest of forms? In comparison: a simple walkie talkie protocol entails some agreements such as: 
+Pair up or make groups to design a communication protocol. How can you convey information with only on/off? How does the receiver now when to be alert? How do they know when the message is ended? Communicating is as much about listening as it is about sending. What might be ways to attune? How might this translate to the simplest of forms? In comparison: a simple walkie talkie protocol entails some agreements such as: 
 
 * opening with: "person A to person B, over"
 * responding with: "person B to person A, over"
 * closing with: "over and out"
 
-Research and think a bit more on this together, and try to create an analog communication protocol to send e.g. an SMS (160 characters), an emoji, an image, a phone number, other. 
+Here you see there's a certain signal dedicated to alert the listener(s) that a message is coming and they should keep their eyes/ears peeled. And similarly, when they can rest easy. The sender might want to know that the listener is actually there and they're not taking to a wall.  Or that the message did or did not come across clearly and they might need to repeat. 
 
-* *Question to consider*
-* *Question to consider*
+Research and think a bit more on this together, and try to create an analog communication protocol for your joulethief messaging device. Some questions to think about when designing a protocol:
+
+* the scale from bits to meaning (from on/off to full-blown storytelling and everything in between), what do you want to convey? e.g. an SMS (160 characters), an emoji, an image, a phone number, a piece of music, other, calling your dog to come back into the house, other? 
+* speed (how fast can you speak/listen?)
+* size (how long can you speak/listen?)
+* access (who can speak/listen on your channels?)
+* time (making sure you are on the same clock)
+* how to identify the start of communication? 
+* how to identify the end of communication? 
+* how to make sure someone is actually listening?
+
+**References from the world of computing:**
+
+* I2C protocol (note the insert on changing terminology to describe relationship between devices): [https://learn.sparkfun.com/tutorials/i2c/all](https://learn.sparkfun.com/tutorials/i2c/all)
+* Binary counting system: [https://learn.sparkfun.com/tutorials/binary](https://learn.sparkfun.com/tutorials/binary)
+* SPI protocol: [https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports)
 
 
-**TOGETHER**
+### Bringing it all together - approx 60 mins
 
 * Connect your joule thief to the mud battery and see if it works. We haven't tried this yet, so it really is an experiment! 
 * Try sending information using your joulethief, using your communication protocol
 * Share the resulting messages, discuss how and when entropy (noise) entered the process
 * Display your mud batteries with LED lights in your space :) 
 
-
+------------------
 
 ## WORKSHOP VERSION 2 (HYBRID) 
 
 Duration: from 4 hours (half a day) up to 8 hours spread out over 2 days, depending on selected activities
 
-Materials list should be shared with remote participants ASAP so they can order components and do shopping
+Materials list should be shared with remote participants ASAP so they can order components and do shopping.
 
 Node facilitates a session for participant to pair up based on shared interest, choose one or more of the following:
 
-Make a mud battery (work together remotely in small groups, those who were able to get materials), note that it needs to rest to charge! 
+* Join the collective reading moment that will take place inside this [etherpad](https://etherpad.hackersanddesigners.nl/p/soilpunk-workshop-hdsa2022) with all nodes on **Tuesday 9.00-10.00AM CET = 4.00-5.00 PM KST = 7.00-8.00 PM NZST** to discuss the text from the Software Studies Lexicon. 
+* Make a mud battery (work together remotely in small groups, those who were able to get materials), note that it needs to rest to charge! 
+* Make a joulethief (those who were able to get the materials) and use it with an old half-empty AA battery
+* Design a communication protocol and test it out via webcam/audiocall. This can be done with readily available household materials, like a small torch or penlight, knocking on the table for sound, flashing a red piece of paper at a webcam.
 
-Make a joulethief (those who were able to get the materials) and use it with an old half-empty AA battery
-
-and/or:
-
-Design a communication protocol and test it out via webcam/audiocall. This can be done with readily available household materials, like a small torch or penlight, knocking on the table for sound, flashing a red piece of paper at a webcam.
-
-Before starting: decide on moments to check back in together, and when you will stop working on the activity, and how and when you would like to wrap it up (e.g. sharing and discussing with all participants in the node)
+Before starting: decide on moments to check back in together, and when you will stop working on the activity, and how and when you would like to wrap it up (e.g. sharing and discussing with all participants in the node). 
 
 
 
