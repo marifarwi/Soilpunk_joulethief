@@ -261,11 +261,15 @@ We all experience troubled transmission all the time. Broken connection, low ban
 
 * [Wikipedia page of Communication Protocols](https://en.wikipedia.org/wiki/Communication_protocol)
 * [Youtube video "RFID Lab 1: Serial Peripheral Interface (SPI)"](https://youtu.be/kkMVv0dMavM) 
-* ["S.M.S., smoke as a medium for the masses" by Dennis de Bel] (http://dennisdebel.nl/2017/2014-sms2.0/)
-* [Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131. Byfield, Ted (2008) “Information” in: Matthew Fuller (ed)] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
+* ["S.M.S., smoke as a medium for the masses" by Dennis de Bel](http://dennisdebel.nl/2017/2014-sms2.0/)
+* [Byfield, Ted (2008) “Information” in: Matthew Fuller (ed) *Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
 * *The commons: Infrastructures for troubling times* by Lauren Berlant (this text is part of the reader)
 
-[... add more ]
+**References from the world of computing:**
+
+* I2C protocol (note the insert on changing terminology to describe relationship between devices): [https://learn.sparkfun.com/tutorials/i2c/all](https://learn.sparkfun.com/tutorials/i2c/all)
+* Binary counting system: [https://learn.sparkfun.com/tutorials/binary](https://learn.sparkfun.com/tutorials/binary)
+* SPI protocol: [https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports)
 
 
 ### Make a Joule Thief - approx 90 mins
@@ -381,12 +385,6 @@ Research and think a bit more on this together, and try to create an analog comm
 * how to identify the start of communication? 
 * how to identify the end of communication? 
 * how to make sure someone is actually listening?
-
-**References from the world of computing:**
-
-* I2C protocol (note the insert on changing terminology to describe relationship between devices): [https://learn.sparkfun.com/tutorials/i2c/all](https://learn.sparkfun.com/tutorials/i2c/all)
-* Binary counting system: [https://learn.sparkfun.com/tutorials/binary](https://learn.sparkfun.com/tutorials/binary)
-* SPI protocol: [https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports)
 
 
 ### Bringing it all together - approx 60 mins
