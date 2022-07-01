@@ -17,7 +17,7 @@ And secondly: by exploring the strategies from DIY biotechnology where bacteria 
 2. [Prior knowledge that will come in handy](https://github.com/hackersanddesigners/Soilpunk_joulethief#prior-knowledge-that-will-come-in-handy)
 3. [Workshop version 1 - in person](https://github.com/hackersanddesigners/Soilpunk_joulethief#version-1-in-person)
 	* [Day 1 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1---duration-3-4-hours)
-	* [Day 2 - duration: 3-40 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1---duration-3-4-hours)
+	* [Day 2 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1---duration-3-4-hours)
 4. [Workshop version 2 - hybrid](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1---duration-3-4-hours)
 
 ## 1. Materials and tools
