@@ -1,11 +1,7 @@
 # Soilpunk workshop HDSA22
 
-SoilPunk workshop HDSA2022
 
 <img src="./images/soilpunkwsimage.jpg" alt="" width="600"/>
-
-
-*ALTERNATIVE SCRIPT - SOILPUNK*
 
 This workshop is developed by the two collectives Hackers 
 & Designers and Hackitects in the context of the H&D Summer Academy 2022 "Connecting Otherwise. We invite participants and facilitators of the different nodes to imagine and try out ways to radically reduce the energy use associated with communication technologies such as the Internet and consider a low-tech approaches to 'connecting otherwise'. 
@@ -225,6 +221,10 @@ We will also have a [BBB room](https://bbb.constantvzw.org/b/hd4-tzj-me3-3sa) op
 ##### <span style="color:red">[Short 5 min max prerecorded video by H&D about the idea and set up of the workshop]</span>
 
 <span style="color:red">*will be added ASAP*</span>
+
+- solarpunk as concept/approach/genre we're interested in
+- idea and set up of this part of the Soilpunk workshop
+
 
 ##### Collective exercises to set the scene for this workshop:  
 
