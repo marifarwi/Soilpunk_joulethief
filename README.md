@@ -67,7 +67,7 @@ exploring strategies from DIY biotechnology where bacteria found in local iron-r
 * a 1K and/or 2K ohm resistor
 * a ferrite toroid with an inner diameter of 9mm or so
 * a 1.5V AA battery (doesn't need to be full)
-* thin enameled copper wire, about 100 cm
+* thin enameled copper wire, 0,3 mm core, about 100 cm
 * 2 crocodile clips
 * 4 jumper wires
 * a momentary switch (a push button)
