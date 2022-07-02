@@ -272,8 +272,6 @@ We all experience troubled transmission all the time. Broken connection, low ban
 
 This paragraph describes how you can build an inductor circuit that can power an LED with as little as 0.5V (in comparison: typically you need 2V). Our mud battery is likely to be able to supply this amount after 24 hours if all went well. We added a button to the circuit so the device can double as an extremely simple communication device. By connecting the LED you can send light patterns using the button. If you replace the LED with the little buzzer you can send sound signals. 
 
-<span style="color:red">**update image with version that has corresponds w diagramss**</span>
-
 <img src="./images/joulethief_simple.jpeg" alt="" width="600"/>
 
 Build a joule thief circuit with the components provided, following the step-by-step instructions in the script (an adaptation of this [Dutch tutorial](https://ingegno.be/realisations/jouledief.html)) There are a lot of similar tutorials so if anything is unclear it's worth looking around a bit, maybe somebody else has a way of explaining that is clearer for you :) 
@@ -290,13 +288,13 @@ Build a joule thief circuit with the components provided, following the step-by-
 
 <img src="./images/copperwire.jpeg" alt="" width="600"/>
 
-- take approx. 60 cm of enameled copper wire and fold in half
+- take approx. 100 cm of enameled copper wire and fold in half
 - try not to make bumps and tangles, keep wire nice and smooth
 - loop the closed end through the ferrite toroid, keep about 4 cm 
 
-<img src="./images/11windings.jpeg" alt="" width="600"/>
+<img src="./images/20windings.jpeg" alt="" width="600"/>
 
-- make 10-20 windings with the double wire, make sure they sit next to each other neatly. (Note: some people on the internets claim it takes 20 windings, others say 14, we suppose it all depends on wire and toroid diameter so try some things out and see if it makes a difference?)
+- make 20 windings with the double wire, make sure they sit next to each other neatly.
 - clip the ends, make sure you have about 4 cm left
 - now clip the closed end of the loop from the beginning of the coil
 - you now have 2 separate wires wrapped around the ring, creating 4 loose leads: 2 going into the coil , and 2 coming out of the coil at the end of your winding.
@@ -313,8 +311,9 @@ Build a joule thief circuit with the components provided, following the step-by-
 
 <img src="./images/connectwires.jpeg" alt="" width="600"/>
 
-
 - this is your inductor! the two connected leads will be connected to the positive + side of your AA or mud battery, and the two other separate leads are connected to the transistor and the resistors as shown in the images of the circuit. 
+
+More info about joule thieves and its history on [wikipedia](https://en.wikipedia.org/wiki/Joule_thief)
 
 
 ##### Step 2: make the circuit with an LED
@@ -336,10 +335,13 @@ The leads on the left side of the coil are not connected to each other. One goes
 
 **Resistor:** has no orientation, either way is fine. You can influence the working of the circuit a bit by trying different values. If you have more resistors: try some in the range of 400-2000ohm and see what happens!
 
+**Buzzer:** you can use a buzzer by replacing the LED. Just take the LED out and place the puzzer in the rows of the breadboard where the LED used to be. Because the circuit acts as an oscillator, creating a waveform, it can also drive a buzzer. Both are components that can operate like that. You cannot however drive an IC chip with an oscillator. 
+
+<img src="./images/waveform.jpg" alt="" width="400"/>
+
 In case you want to know the schematic (a bit abstract but can be helpful sometimes)
 
 <img src="./images/schematic.png" alt="schematic diagram of the circuit" width="600"/>
-
 
 ##### Step 3: test the circuit with a 1.5V battery
 
