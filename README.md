@@ -38,12 +38,19 @@ Look for reddish brown soil near river beds and swamps, areas where water has a 
 
 About 1 liter makes 2 batteries.
 
-Make sure you take mud as well as some water [(see video here)](YOUTUBE LINK HERE)
+Make sure you take mud as well as some water (see image below).
 
 <img src="./images/mud_locations.png" alt="" width="600"/>
 
-<img src="./images/mudscoop.jpg" alt="" width="600"/>
+<img src="./images/mudscoop.jpg" alt="" width="400"/>
 
+*Tools for the mud battery*
+
+* pot and stove to cook the agar mixture
+* multimeter
+* clippers and wire stripper
+* breadboard (included in kit)
+* kitchen scale
 
 *Materials for the mud battery*
 
@@ -67,15 +74,6 @@ battery size 5 x 7 cm)
 <img src="./images/materials.png" alt="" width="600"/>
 
 
-*Tools for the mud battery*
-
-* pot and stove to cook the agar mixture
-* multimeter
-* clippers and wire stripper
-* breadboard (included in kit)
-* kitchen scale
-
-
 **For the joule thieves**
 
 *Materials for the joule thieves*
@@ -92,14 +90,15 @@ battery size 5 x 7 cm)
 * a momentary switch (a push button) (included in kit)
 * an AA battery clip (1 cell) (included in kit)
 
-<img src="./images/parts.jpeg" alt="" width="600"/>
-
 *Tools for the joule thieves*
 
 * a lighter to melt the enamel off the copper
 * sand paper (to sand the copper wire removing last bits of enamel)
 * a multimeter
 * clippers to cut wires
+
+<img src="./images/parts.jpeg" alt="" width="600"/>
+
 
 # 2. Prior knowledge that will come in handy
 
