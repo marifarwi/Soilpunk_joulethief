@@ -140,47 +140,10 @@ When attacking environmental pollutants such as aromatic hydrocarbons, Geobacter
 
 <img src="./images/wheretofind_ams.png" alt="" width="600"/>
 
-### The proton exchange membrane protocol - approx 45 mins
+### Making the mud battery - approx 120 mins
 
-<span style="color:red"> [detailed steps will be provided]</span>
+[Steps are described in detail this pdf document](./files/mudbattery_script_hackitects.pdf)
 
-* 5 mins re-explaining how to prepare the membrane.
-* 10 mins preparation of the membrane:
-	* Start with measuring 7 grams of Agar Agar, and 200 ml water.
-	* Mix the agar with the water and one cube of the broth powder in a pan and heat it till it boils for around 20 sec.
-	* Put the mix in the membrane tubes, after sealing one of the tubes sides with tape to avoid the liquid mix from leaking.
-	* Place the filled tubes on the side to solidify
-
-<img src="./images/doublecell.png" alt="" width="600"/>
-
-
-### Preparation for two cell battery - approx 30 mins
-
-5 mins re-explaining how to prepare the 2-cells:
-
-* Start by cutting out a circle in the plastic container (using the circle head cutter in a drill). It has the same diameter as the membrane. 
-* Make two small holes on top of both containers to attach the membrane to them.
-* Cut a circle from the stainless steel net. It has the same diameter and shape as the plastic container available to use for the batteries, so if the container has a regtangular section, the net should be cut as the same shape of the container.
-* Connect the cut net to a wire.
-
-
-### Building the batteries - approx 30 mins
-
-Building cathodes (coal with grids and wires):
-
-* Brush epoxy glue on the nets on both sides.
-* Coat the brushed nets with the powdered active coal.
-* Make sure all the net is covered with coal, then press the coal on the net using a flat surface and force.
-
-<img src="./images/biobattery.png" alt="" width="600"/>
-
-
-Filling the containers :
-
-* Attach the solidified membrane to both of the containers. 
-* In one of the containers place a layer of mud, smash it on the table to make sure that all the air bubbles are released.
-* Place the cathodes on the mud container then add more mud and smash it again to ensure no air bubbles are in the mud.
-* Fill the other container with clean water and place a wire in it. 
 
 ### Connecting the batteries in series and measuring the power - approx 30 mins
 
