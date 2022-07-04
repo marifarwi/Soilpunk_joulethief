@@ -33,33 +33,52 @@ exploring strategies from DIY biotechnology where bacteria found in local iron-r
 
 **For the mud battery**
 
-*Materials*
 
-<span style="color:red">@Hackitects, pls complete</span>
+Look for reddish brown soil near river beds and swamps, areas where water has a reddish color. Preferably collect deep samples not from the surface. 
 
-* transparent containers (e.g. plastic bottles)
-* mud collected from river beds and swamps where you can see reddish water (this is full of iron)
-* metal mesh and metal wires (LENGTH?)
-* conductive wire (LENGTH?)
-* active coal or graphite (or any material that contains carbon)
-* plastic tubes
-* agar agar - 7 g
-* broth powder (salts substance) - (AMOUNT?)
-* water - 200 ml
-* epoxy glue
+About 1 liter makes 2 batteries.
 
-*Tools*
+Make sure you take mud as well as some water [(see video here)](YOUTUBE LINK HERE)
+
+<img src="./images/mud_locations.png" alt="" width="600"/>
+
+<img src="./images/mudscoop.jpg" alt="" width="600"/>
+
+
+*Materials for the mud battery*
+
+- Mud (samples should be collected in advance)
+- Containers ( ex: glass jar or plastic - Around 1L)
+- Electric wires ( Copper wires 30 cm - 2 wires are
+needed per battery)
+- Stainless steel grids (To be cut in rectangles. per
+battery size 5 x 7 cm)
+- Epoxy glue (included in kit)
+- Active coal (included in kit)
+- Agar ( 10 g is needed per battery)
+- Salts substances (any broth powder - 1 pack, 2 g per battery)
+- LED (included in kit)
+- Multimeter
+- Pot, Stove & scale
+- Drinking Water
+- Liquids measuring cup.
+- Tape (or anything to mark different wires)
+
+<img src="./images/materials.png" alt="" width="600"/>
+
+
+*Tools for the mud battery*
 
 * pot and stove to cook the agar mixture
 * multimeter
-* drill with a circle head cutter
-* clippers
+* clippers and wire stripper
 * breadboard
+* kitchen scale
 
 
 **For the joule thieves**
 
-*Materials*
+*Materials for the joule thieves*
 
 * a small breadboard
 * an LED (and optional: a small buzzer)
@@ -75,7 +94,7 @@ exploring strategies from DIY biotechnology where bacteria found in local iron-r
 
 <img src="./images/parts.jpeg" alt="" width="600"/>
 
-*Tools*
+*Tools for the joule thieves*
 
 * a lighter to melt the enamel off the copper
 * sand paper (to sand the copper wire removing last bits of enamel)
@@ -83,8 +102,6 @@ exploring strategies from DIY biotechnology where bacteria found in local iron-r
 * clippers to cut wires
 
 # 2. Prior knowledge that will come in handy
-
-<span style="color:red">add info for mud battery</span>
 
 To build the joule thief you will need to have basic working knowledge of how to use a multimeter (or watch a couple of youtube videos and you'll be fine too). It's handy if at least one person has basic knowledge of how to build and troubleshoot a breadboard circuit. But just looking carefully at the images and checking your own set up will probably get you there as well! And you can contact us for help via Zulip! 
 
@@ -106,7 +123,7 @@ Before starting: check kit and supplies (some shopping might be necessary)
 
 <span style="color:red">**Additional details coming soon!**</span>
 
-The pre-recorded video and instructions will address the following questions: 
+The slides will address the following questions: 
 
 * What is a healthy soil? what lives in the soil?
 * What is geobacteria? where to find it? how does it purify water? what does it need to generate electricity?
@@ -140,16 +157,61 @@ When attacking environmental pollutants such as aromatic hydrocarbons, Geobacter
 
 <img src="./images/wheretofind_ams.png" alt="" width="600"/>
 
-### Making the mud battery - approx 120 mins
+### Making the mud battery - approx 150 mins
 
 [Steps are described in detail this pdf document](./files/mudbattery_script_hackitects.pdf)
 
+#### 1. Making the Cathodes
+To make the cathodes you need the active coal, epoxy glue, stainless steel nets and the electric wires.
 
-### Connecting the batteries in series and measuring the power - approx 30 mins
+- First empty the pills of the active coal provided to get the powder out, and place it on a sheet. (about 10 pills powder per 1 cathode disc)
 
-* Measure the Voltage across the 2-cell battery by touching the wires with the multimeter probes. 
-* Register your results
-* Connect the bateries to the breadboard and measure the voltage. 
+<img src="./images/cathode1.png" alt="" width="600"/>
+
+- Secondly, cut the net in a circle or rectangular, and make it in two layers so it can hold the glue and coal well.
+
+- Then brush the glue on the net and dip it in the coal. Make sure that you add enough glue and that you are pressing the coal well into the glue.
+
+- After making sure that all the net is covered with glue and pressed with coal, connect the net from one of the sides to the electric wire.
+
+<img src="./images/cathode2.png" alt="" width="600"/>
+
+
+#### 2. Preparing first part of the Soil Battery
+
+For this step you need the container (glass jar), mud, the dried cathodes.
+
+- First put the cathode in the container (make sure that the glue dried and the coal is stuck to it).
+
+<img src="./images/cathode3.png" alt="" width="600"/>
+
+- Secondly, fill the jar with mud so it covers the cathode, keeping the wire out of the container.
+- Mark the wire with tape to identify that its negative. (black = negative)
+- Then hit the container to get all the trapped air bubbles out. It is very important to release the air bubbles from the mud.
+
+
+#### 3. Making the proton exchange membrane
+
+Per battery: to make the membrane you need 10 gram Agar, 285ml
+water, 2 gram broth powder, stove, and pan.
+
+- First put the agar, broth and water in a pot on low temperature. keep on stirring the mix.
+- wait 3 minutes after boiling, then turn off the fire.
+- Wait until the temperature of the mixture goes down. When it cools down the mixture become harder until its gelatine. That’s why it’s important to not wait until it’s cooled down completely.
+- While the mix is still somehow warm and in a liquid state. You pour the mixture in the jar over the soil. **This is step must be done in 2 parts.** First add half of the mix and make sure that the cathode wire is coming out from the middle. Wait 1 minute then add the second half, to make sure that the first layer hardens, stays over the soil and not mix with it. Also, make sure to keep the wire of the cathode in the center while the agar is hardening. This would be easier to follow the next steps.
+
+<img src="./images/agar_membrane.png" alt="" width="600"/>
+
+
+- After pouring the agar in the jar,wait for 10 mins so the agar is completely hard and settled.
+- Make sure the top part of the jar over the agar is clean from any mud. If not, you should clean it using a tissue. 
+- Add water on top of the agar so it fills the jar.
+- Add a wire in the water. Mark this wire with a different tape as positive. (Red = positive)
+- Measure the current with multimeter. Check the voltage and the current(A).
+- Re-measure the current after an hour and see if it increases. It’s always good to keep track.
+
+
+<img src="./images/battery_demonstration.png" alt="" width="600"/>
 
 
 ### Allow the bacteria to multiply and charge the biobattery for 15-35 hours
@@ -157,7 +219,6 @@ When attacking environmental pollutants such as aromatic hydrocarbons, Geobacter
 After assembling, each cell will need a minimum of 15 hours to generate 0.5V of electricity. Once it reaches this amount, we can continue with part two of the workshop.  
 
 <img src="./images/graph.png" alt="" width="400"/>
-
 
 
 --------------------------
@@ -319,11 +380,19 @@ Check that your circuit works by connecting one 1.5V AA battery to it. The LED s
 
 ##### Step 4: connect the mud battery to the circuit
 
-Test the mud batteries with a voltmeter and find the positive and negative pole.
+Test the mud batteries with a voltmeter and find the positive and negative pole. 
 
 * Find the positive and the negative pole. If you try to measure the Voltage of the battery and the display gives a negative value: your probes are the wrong way around (you're holding the black lead to the positive pole of the battery instead of the negative pole). If it reads a positive value: your red probe is touching the positive pole and the black probe is touching the negative pole. With this information you should be able to replace your AA battery with the mud battery the right way around. 
 * if it measures 0.5V or higher proceed with single battery
 * if it measures less than 0.5V, connect two mud batteries in series. For more info: [https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html](https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html) 
+
+* Connect the mud battery to Joule Thief Module by taking away the AA battery and putting the mud battery in its place (make sure the positive pole goes where the positive pole of the battery was and vice versa. If you look at the diagram
+
+	- Connect the negative end to the hole #3 on the breadboard 
+	- Connect the positive end to the hole #16 on the breadboard
+
+<img src="./images/circuit.png" alt="" width="600"/>
+
 
 ### Design a communication protocol for your device - approx 90 mins
 
