@@ -72,7 +72,7 @@ battery size 5 x 7 cm)
 * pot and stove to cook the agar mixture
 * multimeter
 * clippers and wire stripper
-* breadboard
+* breadboard (included in kit)
 * kitchen scale
 
 
@@ -80,17 +80,17 @@ battery size 5 x 7 cm)
 
 *Materials for the joule thieves*
 
-* a small breadboard
-* an LED (and optional: a small buzzer)
-* an NPN Transistor 2N3904 (this type has an EBC pinout which is pictured in the instructions, if you take another NPN transistor, check pinout and adjust accordingly)
-* a 1K and/or 2K ohm resistor
-* a ferrite toroid with an inner diameter of 9mm or so
-* a 1.5V AA battery (doesn't need to be full)
-* thin enameled copper wire, 0,3 mm core, about 100 cm
-* 2 crocodile clips
-* 4 jumper wires
-* a momentary switch (a push button)
-* an AA battery clip (1 cell)
+* a small breadboard (included in kit)
+* an LED (and optional: a small buzzer) (included in kit)
+* an NPN Transistor 2N3904 (this type has an EBC pinout which is pictured in the instructions, if you take another NPN transistor, check pinout and adjust accordingly) (included in kit)
+* a 1K ohm resistor (included in kit)
+* a ferrite toroid with an inner diameter of 9mm or so (included in kit)
+* a 1.5V AA battery (doesn't need to be full) 
+* thin enameled copper wire, 0,3 mm core, about 100 cm (included in kit)
+* 2 crocodile clips (included in kit)
+* 4 jumper wires (included in kit)
+* a momentary switch (a push button) (included in kit)
+* an AA battery clip (1 cell) (included in kit)
 
 <img src="./images/parts.jpeg" alt="" width="600"/>
 
@@ -119,7 +119,7 @@ Before starting: check kit and supplies (some shopping might be necessary)
 ## Day 1: Making biobatteries - duration: 3-4 hours
 
 
-### Intro soil & geo-bacteria (pre-recorded video + written instructions) - approx 30 mins
+### Intro soil & geo-bacteria (slide deck + written instructions) - approx 30 mins
 
 <span style="color:red">**Additional details coming soon!**</span>
 
@@ -159,14 +159,12 @@ When attacking environmental pollutants such as aromatic hydrocarbons, Geobacter
 
 ### Making the mud battery - approx 150 mins
 
-[Steps are described in detail this pdf document](./files/mudbattery_script_hackitects.pdf)
-
 #### 1. Making the Cathodes
 To make the cathodes you need the active coal, epoxy glue, stainless steel nets and the electric wires.
 
 - First empty the pills of the active coal provided to get the powder out, and place it on a sheet. (about 10 pills powder per 1 cathode disc)
 
-<img src="./images/cathode1.png" alt="" width="600"/>
+<img src="./images/cathode1.png" alt="" width="800"/>
 
 - Secondly, cut the net in a circle or rectangular, and make it in two layers so it can hold the glue and coal well.
 
@@ -174,7 +172,7 @@ To make the cathodes you need the active coal, epoxy glue, stainless steel nets 
 
 - After making sure that all the net is covered with glue and pressed with coal, connect the net from one of the sides to the electric wire.
 
-<img src="./images/cathode2.png" alt="" width="600"/>
+<img src="./images/cathode2.png" alt="" width="800"/>
 
 
 #### 2. Preparing first part of the Soil Battery
@@ -183,7 +181,7 @@ For this step you need the container (glass jar), mud, the dried cathodes.
 
 - First put the cathode in the container (make sure that the glue dried and the coal is stuck to it).
 
-<img src="./images/cathode3.png" alt="" width="600"/>
+<img src="./images/cathode3.png" alt="" width="800"/>
 
 - Secondly, fill the jar with mud so it covers the cathode, keeping the wire out of the container.
 - Mark the wire with tape to identify that its negative. (black = negative)
@@ -200,8 +198,7 @@ water, 2 gram broth powder, stove, and pan.
 - Wait until the temperature of the mixture goes down. When it cools down the mixture become harder until its gelatine. That’s why it’s important to not wait until it’s cooled down completely.
 - While the mix is still somehow warm and in a liquid state. You pour the mixture in the jar over the soil. **This is step must be done in 2 parts.** First add half of the mix and make sure that the cathode wire is coming out from the middle. Wait 1 minute then add the second half, to make sure that the first layer hardens, stays over the soil and not mix with it. Also, make sure to keep the wire of the cathode in the center while the agar is hardening. This would be easier to follow the next steps.
 
-<img src="./images/agar_membrane.png" alt="" width="600"/>
-
+<img src="./images/agar_membrane.png" alt="" width="800"/>
 
 - After pouring the agar in the jar,wait for 10 mins so the agar is completely hard and settled.
 - Make sure the top part of the jar over the agar is clean from any mud. If not, you should clean it using a tissue. 
@@ -210,9 +207,7 @@ water, 2 gram broth powder, stove, and pan.
 - Measure the current with multimeter. Check the voltage and the current(A).
 - Re-measure the current after an hour and see if it increases. It’s always good to keep track.
 
-
 <img src="./images/battery_demonstration.png" alt="" width="600"/>
-
 
 ### Allow the bacteria to multiply and charge the biobattery for 15-35 hours
 
