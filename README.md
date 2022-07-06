@@ -89,6 +89,7 @@ battery size 5 x 7 cm)
 * 4 jumper wires (included in kit)
 * a momentary switch (a push button) (included in kit)
 * an AA battery clip (1 cell) (included in kit)
+* 12-15 cm or three short pieces of solid core hook-up wire (22 AWG such as [this](https://www.sparkfun.com/products/8024) could be useful to make the leads of the coil sturdier (NOT INCLUDED IN THE KIT, sorry we realized a bit late).
 
 *Tools for the joule thieves*
 
@@ -96,6 +97,9 @@ battery size 5 x 7 cm)
 * sand paper (to sand the copper wire removing last bits of enamel)
 * a multimeter
 * clippers to cut wires
+* a soldering iron
+* some soldering tin
+* a third hand (a person, some clothes pegs or a stand with clamps)
 
 <img src="./images/parts.jpeg" alt="" width="600"/>
 
@@ -288,7 +292,7 @@ We all experience troubled transmission all the time. Broken connection, low ban
 
 ### Make a Joule Thief - approx 90 mins
 
-This paragraph describes how you can build an inductor circuit that can power an LED with as little as 0.5V (in comparison: typically you need 2V). Our mud battery is likely to be able to supply this amount after 24 hours if all went well. We added a button to the circuit so the device can double as an extremely simple communication device. By connecting the LED you can send light patterns using the button. If you replace the LED with the little buzzer you can send sound signals. 
+This paragraph describes how you can build an inductor circuit that can power an LED with as little as 0.65V (in comparison: typically you need 2V). Our mud battery is likely to be able to supply this amount after 24 hours if all went well. We added a button to the circuit so the device can double as an extremely simple communication device. By connecting the LED you can send light patterns using the button. If you replace the LED with the little buzzer you can send sound signals. 
 
 <img src="./images/joulethief_simple.jpeg" alt="" width="600"/>
 
@@ -370,15 +374,19 @@ Check that your circuit works by connecting one 1.5V AA battery to it. The LED s
 3. try another battery (safe bet is to try with one that has at least 1V left)
 4. Try a coil with a different amount of windings (somebody whose circuit is working probably has a good coil too, ask if you can borrow it to check whether your coil is the problem). If so: change the amount of windings.
 
-*Optional*: replace the LED with a buzzer to send sound signals. The sound may be lower/higher depending on the amount of windings in your coil, and the Voltage of the battery. Changing the value of the resistor can tweak this a bit (try some resistors in the 400-2000 Ohm range if you have them).
+**Flickering LED?** The copper wire is a bit too thin for the holes in the breadboard. If you get a lot of flickering when you connect it to a battery, you probably need to help those connections a little bit. You can cut three short pieces of solid core hookup wire, strip the ends, and solder them to the coil leads. This will help them connect better. 
+
+<img src="./images/coil_leads.jpg" alt="" width="600"/>
+
+***Optional***: replace the LED with a **buzzer** to send sound signals. The sound may be lower/higher depending on the amount of windings in your coil, and the Voltage of the battery. Changing the value of the resistor can tweak this a bit (try some resistors in the 400-2000 Ohm range if you have them).
 
 ##### Step 4: connect the mud battery to the circuit
 
 Test the mud batteries with a voltmeter and find the positive and negative pole. 
 
 * Find the positive and the negative pole. If you try to measure the Voltage of the battery and the display gives a negative value: your probes are the wrong way around (you're holding the black lead to the positive pole of the battery instead of the negative pole). If it reads a positive value: your red probe is touching the positive pole and the black probe is touching the negative pole. With this information you should be able to replace your AA battery with the mud battery the right way around. 
-* if it measures 0.5V or higher proceed with single battery
-* if it measures less than 0.5V, connect two mud batteries in series. For more info: [https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html](https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html) 
+* if it measures 0.6V or higher proceed with single battery
+* if it measures less than 0.6V, connect two mud batteries in series. For more info: [https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html](https://www.batterystuff.com/kb/articles/battery-articles/battery-bank-tutorial.html) 
 
 * Connect the mud battery to Joule Thief Module by taking away the AA battery and putting the mud battery in its place (make sure the positive pole goes where the positive pole of the battery was and vice versa. If you look at the diagram
 
