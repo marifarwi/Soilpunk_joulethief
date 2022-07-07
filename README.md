@@ -227,8 +227,8 @@ Today we make an inductor circuit also referred to as a "joule thief" to amp up 
 
 ### Shared activity with all nodes: Collective reading 
 
-As part of our workshop we propose to read the following text: Byfield, Ted (2008) “Information” in: Matthew Fuller (ed) *Software Studies: a Lexicon*. Massachussetts, MIT Press: p. 125-131.
-[PDF here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsvmbrtf4AhXCuKQKHaMcBe8QFnoECA8QAQ&url=https%3A%2F%2Fmonoskop.org%2Fimages%2Fa%2Fa1%2FFuller_Matthew_ed_Software_Studies_A_Lexicon.pdf&usg=AOvVaw3hRsaRblaUFCh9FChmyOqc)
+As part of our workshop we propose to read excerpts from the following text book: Galloway, A. R. (2004). *Protocol: How Control Exists after Decentralization*. Cambridge, MIT press: pp. 28-53 (chapter 1) and pp. 240-246 (conclusion) [PDF available here](.files/galloway_chap2_conclusion.pdf)
+
 
 Then, let's meet on this [Etherpad](https://etherpad.hackersanddesigners.nl/p/soilpunk-workshop-hdsa2022) with all nodes on **Tuesday 9.00-10.00AM CET = 4.00-5.00 PM KST = 7.00-8.00 PM NZST** to discuss the text together. We will prepare some questions and prompts that will be released to activate and create a dramaturgy for the discussion in the pad. 
 
