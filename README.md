@@ -117,7 +117,14 @@ To build the joule thief you will need to have basic working knowledge of how to
 
 Duration: 8 hours (2x4 hrs, should have a 15-35 hour break in between to charge battery)
 
-Before starting: check kit and supplies (some shopping might be necessary)
+**Steps for facilitators:**
+
+It's a good idea to prepare by reading the whole script well before starting the workshop. Below is a summary of the steps involved for facilitators:
+
+1. 3-5 days before workshop day 1: collect additional materials and tools that are not included in the kit (allow time in case you have to order any or scout for the right type of mud) [jump to materials and tools](https://github.com/hackersanddesigners/Soilpunk_joulethief#1-materials-and-tools)
+2. Do workshop day 1 with the participants in your node! 3-4 hrs [jump to day 1 program](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1-making-biobatteries---duration-3-4-hours)
+3. Make sure the battery can charge for 15-35 hours before doing workshop day 2. In the meantime: read the text suggested for day 2 and join our etherpad discussion! [jump to reading activity](https://github.com/hackersanddesigners/Soilpunk_joulethief#shared-activity-with-all-nodes-collective-reading)
+4. Do workshop day 2 with the participants in your node! (3-4 hrs) [jump to program day 2](https://github.com/hackersanddesigners/Soilpunk_joulethief#introducing-and-exploring-ideas---approx-60-mins)
 
 ## Day 1: Making biobatteries - duration: 3-4 hours
 
@@ -227,7 +234,7 @@ Today we make an inductor circuit also referred to as a "joule thief" to amp up 
 
 ### Shared activity with all nodes: Collective reading 
 
-As part of our workshop we propose to read excerpts from the following text book: Galloway, A. R. (2004). *Protocol: How Control Exists after Decentralization*. Cambridge, MIT press: pp. 28-53 (chapter 1) and pp. 240-246 (conclusion) [PDF available here](.files/galloway_chap2_conclusion.pdf)
+As part of the second part of this workshop we propose you read excerpts from the following text book before proceeding with the workshop: Galloway, A. R. (2004). *Protocol: How Control Exists after Decentralization*. Cambridge, MIT press: pp. 28-53 (chapter 1) and pp. 240-246 (conclusion) [PDF available here](./files/galloway_chap2_conclusion.pdf)
 
 
 Then, let's meet on this [Etherpad](https://etherpad.hackersanddesigners.nl/p/soilpunk-workshop-hdsa2022) with all nodes on **Tuesday 9.00-10.00AM CET = 4.00-5.00 PM KST = 7.00-8.00 PM NZST** to discuss the text together. We will prepare some questions and prompts that will be released to activate and create a dramaturgy for the discussion in the pad. 
