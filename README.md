@@ -40,7 +40,7 @@ It's a good idea to prepare by reading the whole script well before starting the
 # 1. Materials and tools
 
 
-**For the mud battery**
+## Mud battery
 
 
 Look for reddish brown soil near river beds and swamps, areas where water has a reddish color. Preferably collect deep samples not from the surface. 
@@ -53,7 +53,7 @@ Make sure you take mud as well as some water (see image below).
 
 <img src="./images/mudscoop.jpg" alt="" width="400"/>
 
-*Tools for the mud battery*
+### Tools for the mud battery
 
 * pot and stove to cook the agar mixture
 * multimeter
@@ -61,7 +61,7 @@ Make sure you take mud as well as some water (see image below).
 * breadboard (included in kit)
 * kitchen scale
 
-*Materials for the mud battery*
+### Materials for the mud battery
 
 - Mud (samples should be collected in advance)
 - Containers ( ex: glass jar or plastic - Around 1L)
@@ -83,34 +83,41 @@ battery size 5 x 7 cm)
 <img src="./images/materials.png" alt="" width="600"/>
 
 
-**For the joule thieves**
+## Materials & tools for the joule thieves
 
-*Materials for the joule thieves*
+### Included in kit sent by H&D:
 
-* a small breadboard (included in kit)
-* an LED (and optional: a small buzzer) (included in kit)
-* an NPN Transistor 2N3904 (this type has an EBC pinout which is pictured in the instructions, if you take another NPN transistor, check pinout and adjust accordingly) (included in kit)
-* a 1K ohm resistor (included in kit)
-* a ferrite toroid with an inner diameter of 9mm or so (included in kit)
+We sent each node a box with kits that contain the following PLUS a battery clip (not pictured). We will send each node the tracking information so you can keep track. If it arrives too late, you can source your own, or (tip from Adam Dror) find a CFL bulb at a recycling place or second hand store and take it apart to harvest a coiled toroid and transistor from there! The other parts are available at any prototyping store. 
+
+* a small breadboard 
+* an LED (and optional: a small buzzer) 
+* an NPN Transistor 2N3904 (this type has an EBC pinout which is pictured in the instructions, if you take another NPN transistor, check pinout and adjust accordingly) 
+* a 1K ohm resistor 
+* a ferrite toroid with an inner diameter of 9mm or so
 * a 1.5V AA battery (doesn't need to be full) 
-* thin enameled copper wire, 0,3 mm core, about 100 cm (included in kit)
-* 2 crocodile clips (included in kit)
-* 4 jumper wires (included in kit)
-* a momentary switch (a push button) (included in kit)
-* an AA battery clip (1 cell) (included in kit)
+* thin enameled copper wire, 0,3 mm core, about 100 cm 
+* 2 crocodile clips 
+* 4 jumper wires 
+* a momentary switch (a push button) 
+* an AA battery clip (1 cell) 
+* piece of sanding paper
+
+
+<img src="./images/parts.jpeg" alt="" width="600"/>
+
+
+### NOT included in kit:
+
 * 12-15 cm or three short pieces of solid core hook-up wire (22 AWG such as [this](https://www.sparkfun.com/products/8024) could be useful to make the leads of the coil sturdier (NOT INCLUDED IN THE KIT, sorry we realized a bit late).
 
-*Tools for the joule thieves*
+### Tools for the joule thieves:
 
 * a lighter to melt the enamel off the copper
-* sand paper (to sand the copper wire removing last bits of enamel)
 * a multimeter
 * clippers to cut wires
 * a soldering iron
 * some soldering tin
 * a third hand (a person, some clothes pegs or a stand with clamps)
-
-<img src="./images/parts.jpeg" alt="" width="600"/>
 
 
 # 2. Prior knowledge that will come in handy
