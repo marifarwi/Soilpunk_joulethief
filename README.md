@@ -227,7 +227,10 @@ water, 2 gram broth powder, stove, and pan.
 
 - The water part in the battery is (+) and the mud part is (-). When connecting two batteries in pralel the (-) from the first battery should be connected to the (-) in the second one, and the (+) from the first to the (+) in the second. Then the (-) and (+) should be connected togather to close the circuit. See the drawing: 
 
-### After making the joel theif, the batteries will be connected to it. 
+<img src="./images/mudbattery_parallel.png" alt="" width="600"/>
+
+
+### After making the joel thief, the batteries will be connected to it. 
 
 
 
@@ -250,15 +253,7 @@ If your schedule doesn't allow you to join this live session, we suggest you bro
 
 ### Introducing and exploring ideas - approx 60 mins
 
-##### <span style="color:red">[Short 5 min max prerecorded video by H&D about the idea and set up of the workshop]</span>
-
-<span style="color:red">*will be added ASAP*</span>
-
-- solarpunk as concept/approach/genre we're interested in
-- idea and set up of this part of the Soilpunk workshop
-
-
-##### Collective exercises to set the scene for this workshop:  
+#### Collective exercises to set the scene for this workshop:  
 
 The purpose of the following exercises is to exchange associations and thoughts about communication protocols in different contexts (walkie talkies, telephones, smoke signals, secret communication with classmates during exams, serial/SPI/I2C communication between computer chips, IP, interactions at the coffee machine) and to get a collective sense of what the knowledge and interest are of the group in relation to the topic of *alternative communication protocols*. We do not expect prior knowledge or answers/solutions to problems but depart from and work with the imagination and fascinations of the respective groups.
 
