@@ -45,7 +45,7 @@ It's a good idea to prepare by reading the whole script well before starting the
 
 Look for reddish brown soil near river beds and swamps, areas where water has a reddish color. Preferably collect deep samples not from the surface. 
 
-About 1 liter makes 2 batteries.
+About 1 liter makes 2 batteries. Ideally you get it a few days before the workshop, but it should be find for up to two weeks.
 
 Make sure you take mud as well as some water (see image below).
 
@@ -87,7 +87,7 @@ battery size 5 x 7 cm)
 
 ### Included in kit sent by H&D:
 
-We sent each node a box with kits that contain the following PLUS a battery clip (not pictured). We will send each node the tracking information so you can keep track. If it arrives too late, you can source your own, or (tip from Adam Dror) find a CFL bulb at a recycling place or second hand store and take it apart to harvest a coiled toroid and transistor from there! The other parts are available at any prototyping store. 
+We sent each node a box with kits that contain the following PLUS a battery clip (not pictured). We will send each node the tracking information so you can keep track. If it arrives too late, you can source your own, or (tip from Adam Ben-Dror) find a CFL bulb at a recycling place or second hand store and take it apart to harvest a coiled toroid and transistor from there! The other parts are available at any prototyping store. 
 
 * a small breadboard 
 * an LED (and optional: a small buzzer) 
@@ -284,12 +284,12 @@ Responses to these prompts can be questions, openings, contradictions, fictions,
 
 *Facilitators release one question at a time and set a timer for each question (minutes indicated)*
 
-We all experience troubled transmission all the time. Broken connection, low bandwidth, frozen faces.... all gestures of infrastructures that tell but one thing "Connectivity is not to be taken for granted". 
+We all experience troubled transmission all the time. Broken connection, low bandwidth, frozen faces and unintended cliff-hangers in intimate conversations.... all gestures of infrastructures that tell but one thing "Connectivity is not to be taken for granted". 
 
 1. Gather in groups of 3 
-2. Pick a scenario of online communication/collaboration that everyone in your group has at some point experienced (i.e. a video conferencing platform, whatsapp call, discord messaging, twitch streaming...) -- 5 min
-3. Make an extensive inventory of utterances of 'bad' connectivity within online communication (i.e. frozen face,...) -- 10 min
-4. Pick one that you find particulary irritating and come up with a protocol that caters to the situation. -- 15 min
+2. Pick a scenario of online communication/collaboration that everyone in your group can relate to (i.e. a video conferencing platform, whatsapp call, discord messaging, twitch streaming...) -- 5 min
+3. Make an extensive inventory of utterances of 'bad' connectivity within online communication (i.e. frozen faces, distorted voices...) -- 10 min
+4. Pick one that you find particulary irritating or fascinating. Imagining these errors as a basis for learning and/or rewiring, how could a protocol cater to the situation? -- 15 min
 
 
 **Potentially relevant background information:**  
