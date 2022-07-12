@@ -450,7 +450,7 @@ Materials list should be shared with remote participants ASAP so they can order 
 
 Node facilitates a session for participant to pair up based on shared interest, choose one or more of the following:
 
-* Join the collective reading moment that will take place inside this [etherpad](https://etherpad.hackersanddesigners.nl/p/soilpunk-workshop-hdsa2022) with all nodes on **Tuesday 9.00-10.00AM CET = 4.00-5.00 PM KST = 7.00-8.00 PM NZST** to discuss the text from the Software Studies Lexicon. 
+* Join the collective reading moment that will take place inside this [etherpad](https://etherpad.hackersanddesigners.nl/p/soilpunk-workshop-hdsa2022) with all nodes on **Tuesday 9.00-10.00AM CET = 4.00-5.00 PM KST = 7.00-8.00 PM NZST** to discuss the text by Alexander Galloway. 
 * Make a mud battery (work together remotely in small groups, those who were able to get materials), note that it needs to rest to charge! 
 * Make a joulethief (those who were able to get the materials) and use it with an old half-empty AA battery
 * Design a communication protocol and test it out via webcam/audiocall. This can be done with readily available household materials, like a small torch or penlight, knocking on the table for sound, flashing a red piece of paper at a webcam.
