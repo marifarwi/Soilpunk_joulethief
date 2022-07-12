@@ -235,6 +235,10 @@ After assembling, each cell will need a minimum of 15 hours to generate 0.5V of 
 
 --------------------------
 
+
+[![Introduction video for the second part of the Soilpunk workshop](https://img.youtube.com/vi/Cb3mlFt85KE/0.jpg)](https://youtu.be/Cb3mlFt85KE)
+
+
 ## Day 2 - Rethinking communication protocols - duration: 3-4 hours
 
 Today we make an inductor circuit also referred to as a "joule thief" to amp up the small voltage we get from the mud battery. Take a look at [this video](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/) to get the basic idea. We will replace the AA battery with our mud battery, and we will add a button to this circuit (and optional: a buzzer) to use it to make light and sound signals. Thus, we are creating the basic setup for encoding and sending information (on/off, zeros/ones, lights/no light, sound/no sound). With this workshop and the simple parameters it provides we propose to explore the concept of communication protocols that we encounter every day in implicit and explicit ways, AND create our own protocols for communication using a very bare bones, hyperlocal, low energy infrastructure!  
