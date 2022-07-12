@@ -31,8 +31,8 @@ It's a good idea to prepare by reading the whole script well before starting the
 1. [Materials and tools](https://github.com/hackersanddesigners/Soilpunk_joulethief#1-materials-and-tools)
 2. [Prior knowledge that will come in handy](https://github.com/hackersanddesigners/Soilpunk_joulethief#2-prior-knowledge-that-will-come-in-handy)
 3. [Workshop version 1 - in person](https://github.com/hackersanddesigners/Soilpunk_joulethief#3-workshop-version-1-in-person)
-	* [Part 1 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1-making-biobatteries---duration-3-4-hours)
-	* [Part 2 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-2---rethinking-communication-protocols---duration-3-4-hours)
+	* [Part 1 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#part-1-making-biobatteries---duration-3-4-hours)
+	* [Part 2 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#part-2---rethinking-communication-protocols---duration-3-4-hours)
 4. [Workshop version 2 - hybrid](https://github.com/hackersanddesigners/Soilpunk_joulethief#workshop-version-2-hybrid)
 
 
