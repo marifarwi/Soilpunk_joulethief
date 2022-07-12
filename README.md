@@ -20,10 +20,10 @@ exploring strategies from DIY biotechnology where bacteria found in local iron-r
 
 It's a good idea to prepare by reading the whole script well before starting the workshop. Below is a summary of the steps involved for facilitators:
 
-1. 3-5 days before workshop day 1: collect additional materials and tools that are not included in the kit (allow time in case you have to order any or scout for the right type of mud) [jump to materials and tools](https://github.com/hackersanddesigners/Soilpunk_joulethief#1-materials-and-tools)
-2. Do workshop day 1 with the participants in your node! 3-4 hrs [jump to day 1 program](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1-making-biobatteries---duration-3-4-hours)
-3. Make sure the battery can charge for 15-35 hours before doing workshop day 2. In the meantime: read the text suggested for day 2 and join our etherpad discussion! [jump to reading activity](https://github.com/hackersanddesigners/Soilpunk_joulethief#shared-activity-with-all-nodes-collective-reading)
-4. Do workshop day 2 with the participants in your node! (3-4 hrs) [jump to program day 2](https://github.com/hackersanddesigners/Soilpunk_joulethief#introducing-and-exploring-ideas---approx-60-mins)
+1. 3-5 days before workshop part 1: collect additional materials and tools that are not included in the kit (allow time in case you have to order any or scout for the right type of mud) [jump to materials and tools](https://github.com/hackersanddesigners/Soilpunk_joulethief#1-materials-and-tools)
+2. Do workshop part 1 with the participants in your node! 3-4 hrs [jump to part 1 program](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1-making-biobatteries---duration-3-4-hours)
+3. Read the text suggested for part 2 and join our etherpad discussion! (If you didn't manage to read all of it you can still join!) [jump to reading activity](https://github.com/hackersanddesigners/Soilpunk_joulethief#shared-activity-with-all-nodes-collective-reading)
+4. Do workshop part 2 with the participants in your node! (3-4 hrs) [jump to program part 2](https://github.com/hackersanddesigners/Soilpunk_joulethief#introducing-and-exploring-ideas---approx-60-mins)
 
 
 # Table of contents
@@ -31,8 +31,8 @@ It's a good idea to prepare by reading the whole script well before starting the
 1. [Materials and tools](https://github.com/hackersanddesigners/Soilpunk_joulethief#1-materials-and-tools)
 2. [Prior knowledge that will come in handy](https://github.com/hackersanddesigners/Soilpunk_joulethief#2-prior-knowledge-that-will-come-in-handy)
 3. [Workshop version 1 - in person](https://github.com/hackersanddesigners/Soilpunk_joulethief#3-workshop-version-1-in-person)
-	* [Day 1 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1-making-biobatteries---duration-3-4-hours)
-	* [Day 2 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-2---rethinking-communication-protocols---duration-3-4-hours)
+	* [Part 1 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1-making-biobatteries---duration-3-4-hours)
+	* [Part 2 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-2---rethinking-communication-protocols---duration-3-4-hours)
 4. [Workshop version 2 - hybrid](https://github.com/hackersanddesigners/Soilpunk_joulethief#workshop-version-2-hybrid)
 
 
@@ -72,7 +72,6 @@ Make sure you take mud as well as some water (see image below).
 - Agar ( 10 g is needed per 1 L battery)
 - Salts substances (any broth powder - 1 pack, 2 g per battery)
 - LED (included in kit)
-- Multimeter
 - Pot, Stove & scale
 - Drinking Water
 - Liquids measuring cup.
@@ -86,6 +85,8 @@ Make sure you take mud as well as some water (see image below).
 ### Included in kit sent by H&D:
 
 We sent each node a box with kits that contain the following PLUS a battery clip (not pictured). We will send each node the tracking information so you can keep track. If it arrives too late, you can source your own, or (tip from Adam Ben-Dror) find a CFL bulb at a recycling place or second hand store and take it apart to harvest a coiled toroid and transistor from there! The other parts are available at any prototyping store. 
+
+One components kit (for **two** participants) contains: 
 
 * a small breadboard 
 * an LED (and optional: a small buzzer) 
@@ -131,7 +132,7 @@ To build the joule thief you will need to have basic working knowledge of how to
 
 Duration: 4 hours 
 
-## Day 1: Making biobatteries - duration: 3-4 hours
+## Part 1: Making biobatteries - duration: 3-4 hours
 
 
 ### Intro soil & geo-bacteria (video + facilitator manual) - approx 15 mins
@@ -228,14 +229,11 @@ water, 2 gram broth powder, stove, and pan.
 
 ### After making the joel theif, the batteries will be connected to it. 
 
- 
-
-<img src="./images/graph.png" alt="" width="400"/>
 
 
---------------------------
+## Part 2 - Rethinking communication protocols - duration: 3-4 hours
 
-## Day 2 - Rethinking communication protocols - duration: 3-4 hours
+[![Introduction video for the second part of the Soilpunk workshop](https://user-images.githubusercontent.com/631696/178526281-3b850080-6d19-4b5f-86b0-b7ac16fe4c6f.png)](https://youtu.be/Cb3mlFt85KE)
 
 Today we make an inductor circuit also referred to as a "joule thief" to amp up the small voltage we get from the mud battery. Take a look at [this video](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/) to get the basic idea. We will replace the AA battery with our mud battery, and we will add a button to this circuit (and optional: a buzzer) to use it to make light and sound signals. Thus, we are creating the basic setup for encoding and sending information (on/off, zeros/ones, lights/no light, sound/no sound). With this workshop and the simple parameters it provides we propose to explore the concept of communication protocols that we encounter every day in implicit and explicit ways, AND create our own protocols for communication using a very bare bones, hyperlocal, low energy infrastructure!  
 
@@ -288,7 +286,7 @@ We all experience troubled transmission all the time. Broken connection, low ban
 1. Gather in groups of 3 
 2. Pick a scenario of online communication/collaboration that everyone in your group can relate to (i.e. a video conferencing platform, whatsapp call, discord messaging, twitch streaming...) -- 5 min
 3. Make an extensive inventory of utterances of 'bad' connectivity within online communication (i.e. frozen faces, distorted voices...) -- 10 min
-4. Pick one that you find particulary irritating or fascinating. Imagining these errors as a basis for learning and/or rewiring, how could a protocol cater to the situation? -- 15 min
+4. Pick one that you find particulary irritating or fascinating, while imagining the context of glitchy, faulty and imperfectons as a basis for un/learning and rewiring. How could a communication protocol look like in this situation? How could we negotate modes of communication? -- 15 min
 
 
 **Potentially relevant background information:**  
@@ -442,6 +440,10 @@ Research and think a bit more on this together, and try to create an analog comm
 * Try sending information using your joulethief, using your communication protocol
 * Share the resulting messages, discuss how and when entropy (noise) entered the process and what that means for what and how is communicated.
 * Display your mud batteries with LED lights in your space :) 
+
+### BONUS OPTION
+
+If it's all working and you still have time left, you could solder the the joulethief, instead of connecting it via the breadboard and make an installation of sorts. 
 
 ------------------
 
