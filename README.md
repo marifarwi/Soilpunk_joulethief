@@ -228,7 +228,7 @@ water, 2 gram broth powder, stove, and pan.
 <img src="./images/mudbattery_parallel.png" alt="" width="800"/>
 
 
-### After making the joel theif, the batteries will be connected to it. 
+### After making the joel thief, the batteries will be connected to it. 
 
 
 
@@ -250,13 +250,6 @@ We will also have a [BBB room](https://bbb.constantvzw.org/b/hd4-tzj-me3-3sa) op
 If your schedule doesn't allow you to join this live session, we suggest you browse the pad afterwards (ideally before you start workshop day 2) and read through the discussion that unfolded (you may still add to it!)
 
 ### Introducing and exploring ideas - approx 45 mins
-
-##### <span style="color:red">[Short 5 min max prerecorded video by H&D about the idea and set up of the workshop]</span>
-
-<span style="color:red">*will be added ASAP*</span>
-
-- solarpunk as concept/approach/genre we're interested in
-- idea and set up of this part of the Soilpunk workshop
 
 
 ##### Collective exercises to set the scene for this workshop:  
@@ -287,7 +280,7 @@ We all experience troubled transmission all the time. Broken connection, low ban
 1. Gather in groups of 3 
 2. Pick a scenario of online communication/collaboration that everyone in your group can relate to (i.e. a video conferencing platform, whatsapp call, discord messaging, twitch streaming...) -- 5 min
 3. Make an extensive inventory of utterances of 'bad' connectivity within online communication (i.e. frozen faces, distorted voices...) -- 10 min
-4. Pick one that you find particulary irritating or fascinating, while imagining the context of glitchy, faulty and imperfectons as a basis for un/learning and rewiring. How could a communication protocol look like in this situation? How could we negotate modes of communication? -- 15 min
+4. Pick one that you find particulary irritating or fascinating, while imagining the context of glitchy, faulty and imperfectons as a basis for un/learning and rewiring. How could a communication protocol look like in this situation? How could we negotiate modes of communication? -- 15 min
 
 
 **Potentially relevant background information:**  
@@ -411,7 +404,7 @@ Test the mud batteries with a voltmeter and find the positive and negative pole.
 <img src="./images/circuit.png" alt="" width="600"/>
 
 
-### Design a communication protocol for your device - approx 90 mins
+### Design a communication protocol for your device - approx 60 mins
 
 Pair up or make groups to design a communication protocol and read through the following paragraph together. Then explore some of these questions to design your protocol.  
 
@@ -435,7 +428,7 @@ Research and think a bit more on this together, and try to create an analog comm
 * how to make sure someone is actually listening?
 
 
-### Bringing it all together - approx 60 mins
+### Bringing it all together - approx 30 mins
 
 * Connect your joule thief to the mud battery and see if it works. We haven't tried this yet, so it really is an experiment! 
 * Try sending information using your joulethief, using your communication protocol
