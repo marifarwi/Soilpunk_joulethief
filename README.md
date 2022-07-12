@@ -42,9 +42,9 @@ It's a good idea to prepare by reading the whole script well before starting the
 
 ## Facilitators: collecting mud for the battery
 
-Look for reddish brown soil near river beds and swamps, areas where water has a reddish color. Preferably collect deep samples not from the surface. 
+Look for reddish brown soil (rich in iron) near river beds and swamps, areas where water has a reddish color. Preferably collect deep samples not from the surface. 
 
-About 1 liter makes 2 batteries. Ideally you get it a few days before the workshop, but it should be find for up to two weeks.
+About 1 liter makes 2 batteries. Ideally you get it a few days before the workshop, but it should be fine for up to two weeks. It is always good to collect more mud than what you calculate, in case some spill during preparations. 
 
 Make sure you take mud as well as some water (see image below).
 
@@ -63,14 +63,13 @@ Make sure you take mud as well as some water (see image below).
 ### Materials for the mud battery
 
 - Mud (samples should be collected in advance)
-- Containers ( ex: glass jar or plastic - Around 1L)
-- Electric wires ( Copper wires 30 cm - 2 wires are
-needed per battery)
-- Stainless steel grids (To be cut in rectangles. per
-battery size 5 x 7 cm)
+- Containers with big opening on top( ex: glass jar or plastic - minimum around 1L)
+- Electric wires ( Copper wires 30 cm - 2 wires are needed per battery)
+- Metal grids to be cut in rectangles. Size for a 1L: around 5 x 15 cm, but can change according to the size and shape of your container. Aluminium nets are good to use but you can use what is available around you.
 - Epoxy glue (included in kit)
+- Small brush to spread the glue.
 - Active coal (included in kit)
-- Agar ( 10 g is needed per battery)
+- Agar ( 10 g is needed per 1 L battery)
 - Salts substances (any broth powder - 1 pack, 2 g per battery)
 - LED (included in kit)
 - Multimeter
@@ -130,22 +129,19 @@ To build the joule thief you will need to have basic working knowledge of how to
 
 # 3. Workshop version 1 (in-person)
 
-Duration: 8 hours (2x4 hrs, should have a 15-35 hour break in between to charge battery)
-
+Duration: 4 hours 
 
 ## Day 1: Making biobatteries - duration: 3-4 hours
 
 
-### Intro soil & geo-bacteria (slide deck + written instructions) - approx 30 mins
+### Intro soil & geo-bacteria (video + facilitator manual) - approx 15 mins
 
 <span style="color:red">**Additional details coming soon!**</span>
 
 The slides will address the following questions: 
 
-* What is a healthy soil? what lives in the soil?
 * What is geobacteria? where to find it? how does it purify water? what does it need to generate electricity?
-* What are types of soil batteries?
-* What are 2 cell batteries ? what are important elements for a bacterial cell battery to properly work ? how much electricity does it generate?
+* What are important elements for a bacterial cell battery to properly work ? how much electricity does it generate?
 * What is the protocol for creating a bacterial battery? what are the different parts needed? (membrane, wires, coal sheets..etc) how to prepare them?
 
 **References** 
@@ -177,17 +173,17 @@ When attacking environmental pollutants such as aromatic hydrocarbons, Geobacter
 ### Making the mud battery - approx 150 mins
 
 #### 1. Making the Cathodes
-To make the cathodes you need the active coal, epoxy glue, stainless steel nets and the electric wires.
+To make the cathodes you need the active coal, epoxy glue, metal nets and electric wires.
 
 - First empty the pills of the active coal provided to get the powder out, and place it on a sheet. (about 10 pills powder per 1 cathode disc)
 
 <img src="./images/cathode1.png" alt="" width="800"/>
 
-- Secondly, cut the net in a circle or rectangular, and make it in two layers so it can hold the glue and coal well.
+- Secondly, cut the net in a rectangular shape 10x15cm. We are cutting a long regtangular shape because we want to roll it, obtaining more surface area. Fold the regtangle so the seze will be 5x15cm. By folding we creat two layers so it can hold the glue and coal well.
 
-- Then brush the glue on the net and dip it in the coal. Make sure that you add enough glue and that you are pressing the coal well into the glue.
+- Then brush the glue on the net and make sure that you add enough glue and that it is brushed evently on the surface of the net. Cover the brushed net with the active coal powder and press it very well. After pressing add coal and press again. It is very important that the coal is covering whole surface without having any glue, since the glue is not conductive.
 
-- After making sure that all the net is covered with glue and pressed with coal, connect the net from one of the sides to the electric wire.
+- After making sure that all the net is covered and pressed with coal, connect the net from one of the sides to an electric wire. At the end you can roll the rectangular and leave it to fully dry. 
 
 <img src="./images/cathode2.png" alt="" width="800"/>
 
@@ -202,7 +198,7 @@ For this step you need the container (glass jar), mud, the dried cathodes.
 
 - Secondly, fill the jar with mud so it covers the cathode, keeping the wire out of the container.
 - Mark the wire with tape to identify that its negative. (black = negative)
-- Then hit the container to get all the trapped air bubbles out. It is very important to release the air bubbles from the mud.
+- Then hit the container to get all the trapped air bubbles out. It is VERY IMPORTANT to release the air bubbles from the mud.
 
 
 #### 3. Making the proton exchange membrane
@@ -222,23 +218,22 @@ water, 2 gram broth powder, stove, and pan.
 - Add water on top of the agar so it fills the jar.
 - Add a wire in the water. Mark this wire with a different tape as positive. (Red = positive)
 - Measure the current with multimeter. Check the voltage and the current(A).
-- Re-measure the current after an hour and see if it increases. It’s always good to keep track.
+- We get a ready of 1V when the battery is freshly made.
 
 <img src="./images/battery_demonstration.png" alt="" width="600"/>
 
-### Allow the bacteria to multiply and charge the biobattery for 15-35 hours
+#### 3. Connecting the batteries in paralel.
 
-After assembling, each cell will need a minimum of 15 hours to generate 0.5V of electricity. Once it reaches this amount, we can continue with part two of the workshop.  
+- The water part in the battery is (+) and the mud part is (-). When connecting two batteries in pralel the (-) from the first battery should be connected to the (-) in the second one, and the (+) from the first to the (+) in the second. Then the (-) and (+) should be connected togather to close the circuit. See the drawing: 
+
+### After making the joel theif, the batteries will be connected to it. 
+
+ 
 
 <img src="./images/graph.png" alt="" width="400"/>
 
 
 --------------------------
-
-
-[![Introduction video for the second part of the Soilpunk workshop](https://user-images.githubusercontent.com/631696/178526281-3b850080-6d19-4b5f-86b0-b7ac16fe4c6f.png)](https://youtu.be/Cb3mlFt85KE)
-
-
 
 ## Day 2 - Rethinking communication protocols - duration: 3-4 hours
 
