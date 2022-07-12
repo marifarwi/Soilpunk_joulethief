@@ -31,8 +31,8 @@ It's a good idea to prepare by reading the whole script well before starting the
 1. [Materials and tools](https://github.com/hackersanddesigners/Soilpunk_joulethief#1-materials-and-tools)
 2. [Prior knowledge that will come in handy](https://github.com/hackersanddesigners/Soilpunk_joulethief#2-prior-knowledge-that-will-come-in-handy)
 3. [Workshop version 1 - in person](https://github.com/hackersanddesigners/Soilpunk_joulethief#3-workshop-version-1-in-person)
-	* [Part 1 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#part-1-making-biobatteries---duration-3-4-hours)
-	* [Part 2 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#part-2---rethinking-communication-protocols---duration-3-4-hours)
+	* [Part 1 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1-making-biobatteries---duration-3-4-hours)
+	* [Part 2 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-2---rethinking-communication-protocols---duration-3-4-hours)
 4. [Workshop version 2 - hybrid](https://github.com/hackersanddesigners/Soilpunk_joulethief#workshop-version-2-hybrid)
 
 
@@ -65,12 +65,12 @@ Make sure you take mud as well as some water (see image below).
 - Mud (samples should be collected in advance)
 - Containers with big opening on top( ex: glass jar or plastic - minimum around 1L)
 - Electric wires ( Copper wires 30 cm - 2 wires are needed per battery)
-- Metal grids to be cut in rectangles. Size for a 1L: around 5 x 15 cm, but can change according to the size and shape of your container. Aluminium nets are good to use but you can use what is available around you.
+- Stainless steel grids to be cut in rectangles. Size : around 5 x 15 cm, but can change according to the size and shape of your container. Aluminium nets are good to use but they are less conductive. You can use also kitchen strainer mesh. 
 - Epoxy glue (included in kit)
 - Small brush to spread the glue.
 - Active coal (included in kit)
 - Agar ( 10 g is needed per 1 L battery)
-- Salts substances (any broth powder - 1 pack, 2 g per battery)
+- Salts substances (any broth powder - 1 pack, 2 g per battery). Broth powder is the one you use for cooking. We used the veggie broth cubes that you buy from the supermarket to add to your soup for instance. 
 - LED (included in kit)
 - Pot, Stove & scale
 - Drinking Water
@@ -182,7 +182,7 @@ To make the cathodes you need the active coal, epoxy glue, metal nets and electr
 
 - Secondly, cut the net in a rectangular shape 10x15cm. We are cutting a long regtangular shape because we want to roll it, obtaining more surface area. Fold the regtangle so the seze will be 5x15cm. By folding we creat two layers so it can hold the glue and coal well.
 
-- Then brush the glue on the net and make sure that you add enough glue and that it is brushed evently on the surface of the net. Cover the brushed net with the active coal powder and press it very well. After pressing add coal and press again. It is very important that the coal is covering whole surface without having any glue, since the glue is not conductive.
+- Then brush the glue on the net and make sure that you add enough glue and that it is brushed evently on the surface of the net. Cover the brushed net with the active coal powder and press it very well. After pressing add coal and press again. It is very important that the coal is covering the whole surface.
 
 - After making sure that all the net is covered and pressed with coal, connect the net from one of the sides to an electric wire. At the end you can roll the rectangular and leave it to fully dry. 
 
@@ -227,10 +227,7 @@ water, 2 gram broth powder, stove, and pan.
 
 - The water part in the battery is (+) and the mud part is (-). When connecting two batteries in pralel the (-) from the first battery should be connected to the (-) in the second one, and the (+) from the first to the (+) in the second. Then the (-) and (+) should be connected togather to close the circuit. See the drawing: 
 
-<img src="./images/mudbattery_parallel.png" alt="" width="600"/>
-
-
-### After making the joel thief, the batteries will be connected to it. 
+### After making the joel theif, the batteries will be connected to it. 
 
 
 
@@ -253,7 +250,15 @@ If your schedule doesn't allow you to join this live session, we suggest you bro
 
 ### Introducing and exploring ideas - approx 60 mins
 
-#### Collective exercises to set the scene for this workshop:  
+##### <span style="color:red">[Short 5 min max prerecorded video by H&D about the idea and set up of the workshop]</span>
+
+<span style="color:red">*will be added ASAP*</span>
+
+- solarpunk as concept/approach/genre we're interested in
+- idea and set up of this part of the Soilpunk workshop
+
+
+##### Collective exercises to set the scene for this workshop:  
 
 The purpose of the following exercises is to exchange associations and thoughts about communication protocols in different contexts (walkie talkies, telephones, smoke signals, secret communication with classmates during exams, serial/SPI/I2C communication between computer chips, IP, interactions at the coffee machine) and to get a collective sense of what the knowledge and interest are of the group in relation to the topic of *alternative communication protocols*. We do not expect prior knowledge or answers/solutions to problems but depart from and work with the imagination and fascinations of the respective groups.
 
