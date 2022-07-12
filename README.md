@@ -40,8 +40,7 @@ It's a good idea to prepare by reading the whole script well before starting the
 # 1. Materials and tools
 
 
-## Mud battery
-
+## Facilitators: collecting mud for the battery
 
 Look for reddish brown soil near river beds and swamps, areas where water has a reddish color. Preferably collect deep samples not from the surface. 
 
