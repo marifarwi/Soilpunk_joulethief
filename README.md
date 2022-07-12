@@ -31,8 +31,8 @@ It's a good idea to prepare by reading the whole script well before starting the
 1. [Materials and tools](https://github.com/hackersanddesigners/Soilpunk_joulethief#1-materials-and-tools)
 2. [Prior knowledge that will come in handy](https://github.com/hackersanddesigners/Soilpunk_joulethief#2-prior-knowledge-that-will-come-in-handy)
 3. [Workshop version 1 - in person](https://github.com/hackersanddesigners/Soilpunk_joulethief#3-workshop-version-1-in-person)
-	* [Part 1 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1-making-biobatteries---duration-3-4-hours)
-	* [Part 2 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-2---rethinking-communication-protocols---duration-3-4-hours)
+	* [Part 1 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#part-1-making-biobatteries---duration-3-4-hours)
+	* [Part 2 - duration: 3-4 hrs](https://github.com/hackersanddesigners/Soilpunk_joulethief#part-2---rethinking-communication-protocols---duration-3-4-hours)
 4. [Workshop version 2 - hybrid](https://github.com/hackersanddesigners/Soilpunk_joulethief#workshop-version-2-hybrid)
 
 
@@ -165,8 +165,6 @@ When attacking environmental pollutants such as aromatic hydrocarbons, Geobacter
 
 **Where to find geobacter?**
 
-<span style="color:red"> [more info for nodes coming]</span>
-
 *Amsterdam-Noord, the Netherlands*
 
 <img src="./images/wheretofind_ams.png" alt="" width="600"/>
@@ -223,9 +221,12 @@ water, 2 gram broth powder, stove, and pan.
 
 <img src="./images/battery_demonstration.png" alt="" width="600"/>
 
-#### 3. Connecting the batteries in paralel.
+#### 3. Connecting the batteries in parallel
 
 - The water part in the battery is (+) and the mud part is (-). When connecting two batteries in pralel the (-) from the first battery should be connected to the (-) in the second one, and the (+) from the first to the (+) in the second. Then the (-) and (+) should be connected togather to close the circuit. See the drawing: 
+
+<img src="./images/mudbattery_parallel.png" alt="" width="800"/>
+
 
 ### After making the joel theif, the batteries will be connected to it. 
 
@@ -237,7 +238,7 @@ water, 2 gram broth powder, stove, and pan.
 
 Today we make an inductor circuit also referred to as a "joule thief" to amp up the small voltage we get from the mud battery. Take a look at [this video](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/) to get the basic idea. We will replace the AA battery with our mud battery, and we will add a button to this circuit (and optional: a buzzer) to use it to make light and sound signals. Thus, we are creating the basic setup for encoding and sending information (on/off, zeros/ones, lights/no light, sound/no sound). With this workshop and the simple parameters it provides we propose to explore the concept of communication protocols that we encounter every day in implicit and explicit ways, AND create our own protocols for communication using a very bare bones, hyperlocal, low energy infrastructure!  
 
-### Shared activity with all nodes: Collective reading 
+### Shared activity with all nodes: Collective reading - 45 mins
 
 As part of the second part of this workshop we propose you read excerpts from the following text book before proceeding with the workshop: Galloway, A. R. (2004). *Protocol: How Control Exists after Decentralization*. Cambridge, MIT press: pp. 28-53 (chapter 1) and pp. 240-246 (conclusion) [PDF available here](./files/galloway_chap2_conclusion.pdf)
 
@@ -248,7 +249,7 @@ We will also have a [BBB room](https://bbb.constantvzw.org/b/hd4-tzj-me3-3sa) op
 
 If your schedule doesn't allow you to join this live session, we suggest you browse the pad afterwards (ideally before you start workshop day 2) and read through the discussion that unfolded (you may still add to it!)
 
-### Introducing and exploring ideas - approx 60 mins
+### Introducing and exploring ideas - approx 45 mins
 
 ##### <span style="color:red">[Short 5 min max prerecorded video by H&D about the idea and set up of the workshop]</span>
 
@@ -304,7 +305,7 @@ We all experience troubled transmission all the time. Broken connection, low ban
 * SPI protocol: [https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports)
 
 
-### Make a Joule Thief - approx 90 mins
+### Make a Joule Thief - approx 60 mins
 
 This paragraph describes how you can build an inductor circuit that can power an LED with as little as 0.65V (in comparison: typically you need 2V). Our mud battery is likely to be able to supply this amount after 24 hours if all went well. We added a button to the circuit so the device can double as an extremely simple communication device. By connecting the LED you can send light patterns using the button. If you replace the LED with the little buzzer you can send sound signals. 
 
