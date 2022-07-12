@@ -21,9 +21,9 @@ exploring strategies from DIY biotechnology where bacteria found in local iron-r
 It's a good idea to prepare by reading the whole script well before starting the workshop. Below is a summary of the steps involved for facilitators:
 
 1. 3-5 days before workshop part 1: collect additional materials and tools that are not included in the kit (allow time in case you have to order any or scout for the right type of mud) [jump to materials and tools](https://github.com/hackersanddesigners/Soilpunk_joulethief#1-materials-and-tools)
-2. Do workshop part 1 with the participants in your node! 3-4 hrs [jump to part 1 program](https://github.com/hackersanddesigners/Soilpunk_joulethief#day-1-making-biobatteries---duration-3-4-hours)
+2. Do workshop part 1 with the participants in your node! 3-4 hrs [jump to part 1 program](https://github.com/hackersanddesigners/Soilpunk_joulethief#part-1-making-biobatteries---duration-3-4-hours)
 3. Read the text suggested for part 2 and join our etherpad discussion! (If you didn't manage to read all of it you can still join!) [jump to reading activity](https://github.com/hackersanddesigners/Soilpunk_joulethief#shared-activity-with-all-nodes-collective-reading)
-4. Do workshop part 2 with the participants in your node! (3-4 hrs) [jump to program part 2](https://github.com/hackersanddesigners/Soilpunk_joulethief#introducing-and-exploring-ideas---approx-60-mins)
+4. Do workshop part 2 with the participants in your node! (3-4 hrs) [jump to program part 2](https://github.com/hackersanddesigners/Soilpunk_joulethief#part-2---rethinking-communication-protocols---duration-3-4-hours)
 
 
 # Table of contents
