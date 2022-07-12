@@ -236,7 +236,8 @@ After assembling, each cell will need a minimum of 15 hours to generate 0.5V of 
 --------------------------
 
 
-[![Introduction video for the second part of the Soilpunk workshop](https://img.youtube.com/vi/Cb3mlFt85KE/0.jpg)](https://youtu.be/Cb3mlFt85KE)
+[![Introduction video for the second part of the Soilpunk workshop](https://user-images.githubusercontent.com/631696/178525957-824b5384-f22f-4a1d-87bc-c836b3cfd6e0.png)](https://youtu.be/Cb3mlFt85KE)
+
 
 
 ## Day 2 - Rethinking communication protocols - duration: 3-4 hours
