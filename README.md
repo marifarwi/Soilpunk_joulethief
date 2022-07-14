@@ -37,7 +37,8 @@ It's a good idea to prepare by reading the whole script well before starting the
 
 
 
-# 1. Materials and tools
+##  Part 1: Mud Battery protocol
+[![Introduction video for the second part of the Soilpunk workshop](https://user-images.githubusercontent.com/631696/178526281-3b850080-6d19-4b5f-86b0-b7ac16fe4c6f.png)](https://youtu.be/Cb3mlFt85KE](https://youtu.be/PvUQ04al4Qs)
 
 
 ## Facilitators: collecting mud for the battery
@@ -65,7 +66,7 @@ Make sure you take mud as well as some water (see image below).
 - Mud (samples should be collected in advance)
 - Containers with big opening on top( ex: glass jar or plastic - minimum around 1L)
 - Electric wires ( Copper wires 30 cm - 2 wires are needed per battery)
-- Stainless steel grids to be cut in rectangles. Size : around 5 x 15 cm, but can change according to the size and shape of your container. Aluminium nets are good to use but they are less conductive. You can use also kitchen strainer mesh. 
+- Stainless steel grids to be cut in rectangles. Size : around 8 x 8 cm, but can change according to the size and shape of your container. Aluminium nets are good to use but they are less conductive. You can use also kitchen strainer mesh. You can also experiment with the size of the net, for example: making it like a strip 8 x 20, to have more surface area. In this case tou can roll it without making the surfaces touch.
 - Epoxy glue (included in kit)
 - Small brush to spread the glue.
 - Active coal (included in kit)
@@ -139,11 +140,6 @@ Duration: 4 hours
 
 <span style="color:red">**Additional details coming soon!**</span>
 
-The slides will address the following questions: 
-
-* What is geobacteria? where to find it? how does it purify water? what does it need to generate electricity?
-* What are important elements for a bacterial cell battery to properly work ? how much electricity does it generate?
-* What is the protocol for creating a bacterial battery? what are the different parts needed? (membrane, wires, coal sheets..etc) how to prepare them?
 
 **References** 
 
@@ -178,7 +174,7 @@ To make the cathodes you need the active coal, epoxy glue, metal nets and electr
 
 <img src="./images/cathode1.png" alt="" width="800"/>
 
-- Secondly, cut the net in a rectangular shape 10x15cm. We are cutting a long regtangular shape because we want to roll it, obtaining more surface area. Fold the regtangle so the seze will be 5x15cm. By folding we creat two layers so it can hold the glue and coal well.
+- Secondly, cut two net in a rectangular shape 8x8cm. place them in opposite directions and fold the edges so they are attached. We make two layers so it can hold the glue and coal well.
 
 - Then brush the glue on the net and make sure that you add enough glue and that it is brushed evently on the surface of the net. Cover the brushed net with the active coal powder and press it very well. After pressing add coal and press again. It is very important that the coal is covering the whole surface.
 
